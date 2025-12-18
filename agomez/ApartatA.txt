@@ -1,3 +1,4 @@
 1 * mkdir uno dos tres
 2 * $ echo "Alejandro Gómez García">>un.txt
 3 * cp ../procesos.txt ./dos/
+4 * 
