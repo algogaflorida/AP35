@@ -4,5 +4,4 @@
 4 * grep root procesos.txt
 5 * $ awk '{print $2 "---" $9}' procesos.txt
 6 * $ grep -n "vicen" procesos.txt
-7 * 
-*
+7 * awk '$2 >= 100 && $2 < 1000 {print $1 ":" $2 ":" $11}' procesos.txt
