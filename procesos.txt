@@ -1,0 +1,705 @@
+USER               PID  %CPU %MEM      VSZ    RSS   TT  STAT STARTED      TIME COMMAND
+_windowserver      157   2,9  1,5 413833632 250096   ??  Ss   jue08AM  42:00.16 /System/Library/PrivateFrameworks/SkyLight.framework/Resources/WindowServer -daemon
+root               285   1,4  0,1 426977456  23440   ??  Ss   jue08AM   1:23.08 /usr/libexec/syspolicyd
+root               158   1,2  0,1 426978000  23312   ??  Ss   jue08AM   1:03.95 /System/Library/PrivateFrameworks/TCC.framework/Support/tccd system
+_trustd            688   0,7  0,1 426969568  15520   ??  Ss   jue08AM   1:20.61 /usr/libexec/trustd
+vicen            20649   0,5  0,4 411543136  70752   ??  S     9:20AM   0:00.44 /System/Applications/Utilities/Terminal.app/Contents/MacOS/Terminal
+_analyticsd        156   0,4  0,1 426976832  20544   ??  Ss   jue08AM   0:17.71 /System/Library/PrivateFrameworks/CoreAnalytics.framework/Support/analyticsd
+vicen              410   0,3  0,6 412378160 101232   ??  S    jue08AM   0:57.42 /System/Library/CoreServices/ControlCenter.app/Contents/MacOS/ControlCenter
+vicen              484   0,3  0,2 426992144  31456   ??  S    jue08AM   0:20.96 /usr/libexec/replayd
+root               358   0,2  0,1 426970848  12224   ??  Ss   jue08AM   0:08.71 /usr/libexec/rtcreportingd
+_mdnsresponder     188   0,1  0,1 427057136  18176   ??  Ss   jue08AM   0:41.08 /usr/sbin/mDNSResponder
+root               153   0,1  0,1 426965216  15104   ??  Ss   jue08AM   0:49.65 /usr/libexec/corebrightnessd --launchd
+_driverkit         318   0,1  0,2 426916752  39840   ??  Ss   jue08AM   4:36.95 /System/Library/DriverExtensions/com.apple.DriverKit-AppleBCMWLAN.dext/com.apple.DriverKit-AppleBCMWLAN com.apple.bcmwlan 0x100000c51 com.apple.DriverKit-AppleBCMWLAN
+root              6625   0,1  0,0 426965824   7856   ??  Ss    9:58AM   0:40.94 /System/Library/PrivateFrameworks/AmbientDisplay.framework/Versions/A/XPCServices/com.apple.AmbientDisplayAgent.xpc/Contents/MacOS/com.apple.AmbientDisplayAgent
+vicen            20625   0,0  0,1 426911888  19456   ??  Ss    9:15AM   0:00.05 /System/Library/Frameworks/QuickLookUI.framework/Versions/A/XPCServices/QuickLookUIService.xpc/Contents/MacOS/QuickLookUIService
+vicen            20624   0,0  0,5 411089312  83248   ??  Ss    9:15AM   0:00.59 /System/Library/Frameworks/AppKit.framework/Versions/C/XPCServices/com.apple.appkit.xpc.openAndSavePanelService.xpc/Contents/MacOS/com.apple.appkit.xpc.openAndSavePanelService
+vicen            20622   0,0  0,6 411807088  92480   ??  S     9:15AM   0:00.65 /System/Applications/TextEdit.app/Contents/MacOS/TextEdit
+vicen            20618   0,0  0,0 426964816   8160   ??  Ss    9:14AM   0:00.06 /System/Library/PrivateFrameworks/CalendarWeatherKit.framework/Versions/A/XPCServices/com.apple.CalendarWeatherKitService.xpc/Contents/MacOS/com.apple.CalendarWeatherKitService
+vicen            20617   0,0  0,7 411907072 109440   ??  S     9:14AM   0:01.78 /System/Applications/Calendar.app/Contents/MacOS/Calendar
+vicen            20615   0,0  0,1 426986384  21664   ??  Ss    9:13AM   0:00.10 /System/Library/PrivateFrameworks/RemoteViewServices.framework/XPCServices/com.apple.security.pboxd.xpc/Contents/MacOS/com.apple.security.pboxd
+vicen            20610   0,0  0,1 426900608  17808   ??  Ss    9:13AM   0:00.06 /System/Library/Frameworks/QuickLookUI.framework/Versions/A/XPCServices/QuickLookUIService.xpc/Contents/MacOS/QuickLookUIService
+vicen            20609   0,0  0,4 411082672  74400   ??  Ss    9:13AM   0:00.59 /System/Library/Frameworks/AppKit.framework/Versions/C/XPCServices/com.apple.appkit.xpc.openAndSavePanelService.xpc/Contents/MacOS/com.apple.appkit.xpc.openAndSavePanelService
+vicen            20599   0,0  2,3 417859200 384608   ??  S     9:13AM   0:07.64 /Applications/Microsoft Word.app/Contents/MacOS/Microsoft Word
+vicen            20597   0,0  0,1 426974528  20256   ??  S     9:12AM   0:00.30 /System/Library/PrivateFrameworks/CoreParsec.framework/parsec-fbf
+vicen            20537   0,0  0,0 426928256   8208   ??  S     8:48AM   0:00.07 /usr/libexec/ptpcamerad
+vicen            20536   0,0  0,0 410603616   5792   ??  Ss    8:48AM   0:00.03 /System/Library/Frameworks/ImageCaptureCore.framework/Versions/A/XPCServices/mscamerad-xpc.xpc/Contents/MacOS/mscamerad-xpc
+vicen            20535   0,0  0,1 426900608  18208   ??  Ss    8:48AM   0:00.09 /System/Library/Frameworks/QuickLookUI.framework/Versions/A/XPCServices/QuickLookUIService.xpc/Contents/MacOS/QuickLookUIService
+vicen            20534   0,0  0,5 411081824  77104   ??  Ss    8:48AM   0:00.71 /System/Library/Frameworks/AppKit.framework/Versions/C/XPCServices/com.apple.appkit.xpc.openAndSavePanelService.xpc/Contents/MacOS/com.apple.appkit.xpc.openAndSavePanelService
+vicen            20533   0,0  0,7 412237248 124096   ??  S     8:47AM   0:01.45 /System/Applications/Preview.app/Contents/MacOS/Preview
+_netbios         20504   0,0  0,0 426934064   8096   ??  SNs   8:33AM   0:00.28 /usr/sbin/netbiosd
+vicen            20503   0,0  0,0 426965008   7744   ??  Ss    8:33AM   0:00.11 /System/Library/SystemConfiguration/EAPOLController.bundle/Contents/Resources/eapolclient -i en0 -u 501 -g 20
+vicen            20400   0,0  0,0 410171264   3504   ??  Ss    7:51AM   0:00.01 /System/Library/Frameworks/NetFS.framework/Versions/A/XPCServices/PlugInLibraryService.xpc/Contents/MacOS/PlugInLibraryService
+vicen            20399   0,0  2,7 499535200 452640   ??  Ss    7:51AM   0:08.73 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent
+vicen            20391   0,0  0,2 426982608  31088   ??  S     7:50AM   0:00.70 /usr/libexec/remindd
+root             20387   0,0  0,1 426965616  18656   ??  Ss    7:49AM   0:00.31 /usr/libexec/wifivelocityd
+vicen            20377   0,0  3,7 500024912 628160   ??  Ss    7:44AM   0:39.66 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent
+root             20330   0,0  0,1 427086048  16496   ??  S    12:48AM   0:00.07 /System/Library/PrivateFrameworks/ContextKit.framework/Versions/A/XPCServices/ContextService.xpc/Contents/MacOS/ContextService
+root             20328   0,0  0,1 426967664  13984   ??  S    12:48AM   0:00.10 /System/Library/PrivateFrameworks/Categories.framework/Versions/A/XPCServices/CategoriesService.xpc/Contents/MacOS/CategoriesService
+vicen            20290   0,0  0,1 426966128  10400   ??  Ss   10:05PM   0:00.05 /System/Library/PrivateFrameworks/CoreEmbeddedSpeechRecognition.framework/Versions/A/XPCServices/com.apple.siri.embeddedspeech.xpc/Contents/MacOS/com.apple.siri.embeddedspeech
+vicen            20253   0,0  0,0 426895184   7344   ??  Ss    7:09PM   0:00.08 /System/Library/Frameworks/VideoToolbox.framework/Versions/A/XPCServices/VTDecoderXPCService.xpc/Contents/MacOS/VTDecoderXPCService
+vicen            20251   0,0  0,0 410310464   3184   ??  Ss    7:09PM   0:00.02 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+vicen            20247   0,0  0,1 426901120  17936   ??  Ss    7:09PM   0:00.17 /System/Library/Frameworks/QuickLookUI.framework/Versions/A/XPCServices/QuickLookUIService.xpc/Contents/MacOS/QuickLookUIService
+vicen            20246   0,0  0,7 411420112 125472   ??  Ss    7:09PM   0:03.75 /System/Library/Frameworks/AppKit.framework/Versions/C/XPCServices/com.apple.appkit.xpc.openAndSavePanelService.xpc/Contents/MacOS/com.apple.appkit.xpc.openAndSavePanelService
+vicen            20241   0,0  0,2 426920176  27040   ??  Ss    7:09PM   0:00.26 /System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app/Contents/XPCServices/com.apple.Safari.SandboxBroker.xpc/Contents/MacOS/com.apple.Safari.SandboxBroker
+vicen            20240   0,0  0,1 427131328  16256   ??  Ss    7:09PM   0:00.14 /System/Library/PrivateFrameworks/SafariShared.framework/Versions/A/XPCServices/com.apple.Safari.SearchHelper.xpc/Contents/MacOS/com.apple.Safari.SearchHelper
+vicen            20239   0,0  0,5 428123504  89552   ??  Ss    7:09PM   0:43.08 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.GPU.xpc/Contents/MacOS/com.apple.WebKit.GPU
+vicen            20238   0,0  0,6 431564608  99008   ??  Ss    7:09PM   0:10.83 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.Networking.xpc/Contents/MacOS/com.apple.WebKit.Networking
+vicen            20237   0,0  0,0 410462016   6672   ??  Ss    7:09PM   0:00.02 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+vicen            20235   0,0  2,0 432536528 331584   ??  S     7:08PM   0:49.69 /System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app/Contents/MacOS/Safari
+vicen            20227   0,0  0,1 426969536  20528   ??  S     7:00PM   0:00.75 /System/Library/PrivateFrameworks/IMTransferServices.framework/IMTransferAgent.app/Contents/MacOS/IMTransferAgent
+vicen            20226   0,0  0,1 426901120  17216   ??  Ss    7:00PM   0:00.18 /System/Library/Frameworks/QuickLookUI.framework/Versions/A/XPCServices/QuickLookUIService.xpc/Contents/MacOS/QuickLookUIService
+vicen            20225   0,0  0,4 427198096  70192   ??  Ss    7:00PM   0:06.28 /System/Library/PrivateFrameworks/FinderKit.framework/Versions/A/PlugIns/AirDrop.appex/Contents/MacOS/AirDrop -AppleLanguages ("es-ES")
+vicen            20224   0,0  0,3 427164784  46944   ??  Ss    7:00PM   0:02.09 /System/Library/PrivateFrameworks/ShareKit.framework/Versions/A/PlugIns/ShareSheetUI.appex/Contents/MacOS/ShareSheetUI -AppleLanguages ("es-ES")
+vicen            20182   0,0  0,0 426894624   8032   ??  Ss    6:52PM   0:00.07 /System/Library/Frameworks/VideoToolbox.framework/Versions/A/XPCServices/VTDecoderXPCService.xpc/Contents/MacOS/VTDecoderXPCService
+vicen            20181   0,0  0,0 410303296   2576   ??  Ss    6:52PM   0:00.02 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+root             20118   0,0  0,3 426966560  42336   ??  Ss    6:33PM   0:02.21 /System/Library/PrivateFrameworks/AppleNeuralEngine.framework/XPCServices/ANECompilerService.xpc/Contents/MacOS/ANECompilerService
+vicen            20113   0,0  0,0 410170240   3440   ??  Ss    6:33PM   0:00.03 /System/Library/Frameworks/NetFS.framework/Versions/A/XPCServices/PlugInLibraryService.xpc/Contents/MacOS/PlugInLibraryService
+vicen            20085   0,0  0,2 411779632  32560   ??  Ss    6:13PM   0:00.54 /System/Library/CoreServices/Dock.app/Contents/XPCServices/DockHelper.xpc/Contents/MacOS/DockHelper
+vicen            20084   0,0  0,0 410197888   3488   ??  Ss    6:13PM   0:00.02 /System/Library/Frameworks/NetFS.framework/Versions/A/XPCServices/PlugInLibraryService.xpc/Contents/MacOS/PlugInLibraryService
+vicen            20083   0,0  0,0 410179456   3376   ??  Ss    6:13PM   0:00.03 /System/Library/Frameworks/NetFS.framework/Versions/A/XPCServices/PlugInLibraryService.xpc/Contents/MacOS/PlugInLibraryService
+root             17481   0,0  0,3 426965376  44848   ??  Ss    4:16PM   0:18.63 /System/Library/PrivateFrameworks/XprotectFramework.framework/Versions/A/XPCServices/XprotectService.xpc/Contents/MacOS/XprotectService
+root             17479   0,0  0,0 426931968   5120   ??  S     4:16PM   0:00.10 /System/Library/PrivateFrameworks/PackageKit.framework/Versions/A/XPCServices/package_script_service.xpc/Contents/MacOS/package_script_service
+vicen            16636   0,0  0,0 410182160   5088   ??  Ss    4:10PM   0:00.03 /System/Library/PrivateFrameworks/SafariFoundation.framework/Versions/A/XPCServices/CredentialProviderExtensionHelper.xpc/Contents/MacOS/CredentialProviderExtensionHelper
+vicen            15502   0,0  0,0 426928464   2864   ??  S     4:02PM   0:00.02 /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/DictionaryServices.framework/Versions/A/XPCServices/com.apple.DictionaryServiceHelper.xpc/Contents/MacOS/com.apple.DictionaryServiceHelper
+_fpsd            15460   0,0  0,2 426979376  38336   ??  Ss    4:01PM   0:01.81 /System/Library/PrivateFrameworks/CoreLSKD.framework/Versions/A/lskdd
+root             15459   0,0  0,0 426965152   5744   ??  Ss    4:01PM   0:00.11 /System/Library/PrivateFrameworks/EcosystemAnalytics.framework/Support/ecosystemanalyticsd
+vicen            15443   0,0  0,1 426979280  10656   ??  Ss    4:01PM   0:00.19 /System/Library/ExtensionKit/Extensions/PackageThumbnailExtension.appex/Contents/MacOS/PackageThumbnailExtension
+vicen            15442   0,0  0,4 414621712  61280   ??  S     4:01PM   0:01.78 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/managedcorespotlightd
+vicen            13820   0,0  0,1 426906352  16272   ??  Ss    3:35PM   0:00.20 /System/Library/Frameworks/VideoToolbox.framework/Versions/A/XPCServices/VTDecoderXPCService.xpc/Contents/MacOS/VTDecoderXPCService
+vicen            13819   0,0  0,0 410311488   2560   ??  Ss    3:35PM   0:00.04 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+vicen            13818   0,0  0,2 427012144  30240   ??  Ss    3:35PM   0:00.18 /System/Library/ExtensionKit/Extensions/AudiovisualThumbnailExtension.appex/Contents/MacOS/AudiovisualThumbnailExtension
+vicen            13729   0,0  0,0 410292032   2560   ??  Ss    3:35PM   0:00.08 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+vicen            13728   0,0  0,0 426927920   4480   ??  Ss    3:35PM   0:00.08 /System/Library/PrivateFrameworks/SharingXPCServices.framework/Versions/A/XPCServices/SharingXPCHelper.xpc/Contents/MacOS/SharingXPCHelper
+vicen            10885   0,0  0,1 411826800  22208   ??  S    10:55AM   0:01.85 /System/Library/CoreServices/OSDUIHelper.app/Contents/MacOS/OSDUIHelper
+_www             10701   0,0  0,0 410746576    848   ??  S    10:51AM   0:00.00 /usr/sbin/httpd -D FOREGROUND
+root              6635   0,0  0,1 412023776  15968   ??  Ss    9:58AM   0:00.17 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
+root              6630   0,0  0,0 426928432   2480   ??  Ss    9:58AM   0:00.01 /System/Library/Frameworks/ColorSync.framework/Versions/A/XPCServices/com.apple.ColorSyncXPCAgent.xpc/Contents/MacOS/com.apple.ColorSyncXPCAgent
+vicen             6626   0,0  0,0 411237840   5200   ??  Ss    9:58AM   0:00.08 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
+vicen             6624   0,0  0,2 427005520  27488   ??  Ss    9:58AM   0:00.15 /System/Library/ExtensionKit/Extensions/ImageThumbnailExtension.appex/Contents/MacOS/ImageThumbnailExtension
+vicen             6454   0,0  0,0 410340160   2560   ??  Ss    9:56AM   0:00.03 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+vicen             6451   0,0  0,2 427287280  26848   ??  Ss    9:56AM   0:00.13 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.GPU.xpc/Contents/MacOS/com.apple.WebKit.GPU
+vicen             6450   0,0  0,3 431460176  46720   ??  Ss    9:56AM   0:00.25 /System/Library/ExtensionKit/Extensions/WebThumbnailExtension.appex/Contents/MacOS/WebThumbnailExtension
+vicen             6449   0,0  0,2 426990192  25424   ??  Ss    9:56AM   0:00.19 /System/Library/ExtensionKit/Extensions/OfficeThumbnailExtension.appex/Contents/MacOS/OfficeThumbnailExtension
+vicen             6448   0,0  0,1 426944496  11584   ??  Ss    9:56AM   0:00.61 /System/Library/Frameworks/ExtensionFoundation.framework/Versions/A/XPCServices/extensionkitservice.xpc/Contents/MacOS/extensionkitservice
+vicen             6339   0,0  0,1 426976944  14000   ??  Ss    9:56AM   0:01.20 /System/Library/Frameworks/CoreGraphics.framework/Versions/A/XPCServices/CGPDFService.xpc/Contents/MacOS/CGPDFService
+vicen             5148   0,0  0,0 410920944   5008   ??  Ss    9:47AM   0:00.18 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
+vicen             4908   0,0  0,1 411498176  17440   ??  Ss    9:45AM   0:28.13 /System/Library/Frameworks/VideoToolbox.framework/Versions/A/XPCServices/VTEncoderXPCService.xpc/Contents/MacOS/VTEncoderXPCService
+vicen             4901   0,0  0,0 426895424   6752   ??  Ss    9:45AM   0:49.55 /System/Library/Frameworks/VideoToolbox.framework/Versions/A/XPCServices/VTDecoderXPCService.xpc/Contents/MacOS/VTDecoderXPCService
+vicen             4664   0,0  0,0 410301248   2560   ??  Ss    9:43AM   0:00.08 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+vicen             4656   0,0  0,0 410952528   5280   ??  Ss    9:43AM   0:00.09 /System/Library/PrivateFrameworks/MediaAnalysisAccess.framework/Versions/A/XPCServices/mediaanalysisd-access.xpc/Contents/MacOS/mediaanalysisd-access
+vicen             4024   0,0  0,0 410753376   3968   ??  S    jue09AM   0:00.18 /System/Library/Frameworks/MediaExtension.framework/Versions/A/Helpers/MENotificationAgent
+_spotlight        3499   0,0  0,0 426933344   5792   ??  S    jue09AM   0:05.05 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker -s mdworker-sizing -c MDSSizingWorker -m com.apple.mdworker.sizing
+_spotlight        3498   0,0  0,1 426968656   9168   ??  S    jue09AM   0:00.44 /usr/libexec/trustd --agent
+root              3482   0,0  0,0 426928448   3216   ??  Ss   jue09AM   0:00.07 /System/Library/PrivateFrameworks/AppStoreDaemon.framework/Versions/A/XPCServices/com.apple.AppStoreDaemon.StorePrivilegedTaskService.xpc/Contents/MacOS/com.apple.AppStoreDaemon.StorePrivilegedTaskService
+vicen             3474   0,0  0,0 426965200   3264   ??  Ss   jue09AM   0:00.04 /System/Library/PrivateFrameworks/AppStoreDaemon.framework/Versions/A/XPCServices/com.apple.AppStoreDaemon.StoreAEService.xpc/Contents/MacOS/com.apple.AppStoreDaemon.StoreAEService
+vicen             3365   0,0  0,0 410602928   3632   ??  S    jue09AM   0:00.04 /Library/Apple/System/Library/CoreServices/XProtect.app/Contents/MacOS/XProtect
+vicen             3173   0,0  0,1 427021440  23328   ??  Ss   jue09AM   0:01.51 /System/Library/PrivateFrameworks/AppStoreDaemonUI.framework/Versions/A/XPCServices/com.apple.AppStoreDaemon.StoreUIService.xpc/Contents/MacOS/com.apple.AppStoreDaemon.StoreUIService
+vicen             2503   0,0  0,1 426970464  20576   ??  S    jue09AM   0:00.31 /System/Library/PrivateFrameworks/AvatarPersistence.framework/Support/avatarsd
+vicen             2405   0,0  0,0 410292032   2512   ??  Ss   jue09AM   0:00.08 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+vicen             2404   0,0  0,0 426966560   5488   ??  S    jue09AM   0:00.08 /System/Library/PrivateFrameworks/PodcastServices.framework/XPCServices/PodcastContentService.xpc/Contents/MacOS/PodcastContentService
+_neuralengine     2403   0,0  0,0 426932528   2544   ??  S    jue09AM   0:00.06 /usr/sbin/cfprefsd agent
+_neuralengine     2401   0,0  0,0 426932480   2352   ??  S    jue09AM   0:01.01 /usr/sbin/distnoted agent
+_neuralengine     2400   0,0  0,0 426964400   7664   ??  S    jue09AM   0:00.08 /System/Library/Frameworks/Contacts.framework/Support/contactsd
+_neuralengine     2402   0,0  0,0 426929264   2016   ??  Ss   jue09AM   0:00.03 /System/Library/PrivateFrameworks/AppleNeuralEngine.framework/XPCServices/ANEStorageMaintainer.xpc/Contents/MacOS/ANEStorageMaintainer
+vicen             2398   0,0  0,1 426993072  21856   ??  Ss   jue09AM   0:00.36 /System/Library/PrivateFrameworks/AssistantServices.framework/Versions/A/XPCServices/media-indexer.xpc/Contents/MacOS/media-indexer
+root              2375   0,0  0,0 426929264   2736   ??  Ss   jue09AM   0:00.10 /System/Library/PrivateFrameworks/AppleNeuralEngine.framework/XPCServices/ANEStorageMaintainer.xpc/Contents/MacOS/ANEStorageMaintainer
+root              2374   0,0  0,0 410602928   2256   ??  Ss   jue09AM   0:00.07 /Library/Apple/System/Library/CoreServices/XProtect.app/Contents/MacOS/XProtect
+vicen             2339   0,0  0,0 426965584   6272   ??  S    jue09AM   0:02.83 /usr/libexec/MTLAssetUpgraderD
+root              2266   0,0  0,0 426969872   4976   ??  Ss   jue09AM   0:00.15 /usr/libexec/dprivacyd
+_rmd              2225   0,0  0,0 426932528   2480   ??  S    jue09AM   0:00.07 /usr/sbin/cfprefsd agent
+vicen             2223   0,0  0,1 426964768  13152   ??  S    jue09AM   0:00.17 /System/Library/PrivateFrameworks/IMDPersistence.framework/IMAutomaticHistoryDeletionAgent.app/Contents/MacOS/IMAutomaticHistoryDeletionAgent
+_rmd              2222   0,0  0,0 426964400   7648   ??  S    jue09AM   0:00.11 /System/Library/Frameworks/Contacts.framework/Support/contactsd
+_gamecontrollerd  2217   0,0  0,0 426964384   7632   ??  S    jue09AM   0:00.12 /System/Library/Frameworks/Contacts.framework/Support/contactsd
+_audiomxd         2216   0,0  0,0 426932528   2480   ??  S    jue09AM   0:00.07 /usr/sbin/cfprefsd agent
+_audiomxd         2214   0,0  0,0 426964400   7648   ??  S    jue09AM   0:00.11 /System/Library/Frameworks/Contacts.framework/Support/contactsd
+_applepay         2213   0,0  0,0 426932528   2496   ??  S    jue09AM   0:00.08 /usr/sbin/cfprefsd agent
+vicen             2212   0,0  0,0 426970400   4832   ??  S    jue09AM   0:00.17 /usr/libexec/dprivacyd
+_applepay         2211   0,0  0,0 426964400   7632   ??  S    jue09AM   0:00.11 /System/Library/Frameworks/Contacts.framework/Support/contactsd
+_appleevents      2210   0,0  0,0 426964384   7632   ??  S    jue09AM   0:00.11 /System/Library/Frameworks/Contacts.framework/Support/contactsd
+vicen             2196   0,0  0,1 426997760  14192   ??  S    jue09AM   0:01.37 /System/Library/PrivateFrameworks/AMPLibrary.framework/Versions/A/Support/AMPArtworkAgent --launchd
+vicen             2194   0,0  0,2 427041168  32768   ??  S    jue09AM   0:01.74 /System/Library/PrivateFrameworks/AMPLibrary.framework/Versions/A/Support/AMPLibraryAgent --launchd
+_nsurlsessiond    2175   0,0  0,0 426932528   2480   ??  S    jue09AM   0:00.07 /usr/sbin/cfprefsd agent
+_nsurlsessiond    2171   0,0  0,0 426964400   7664   ??  S    jue09AM   0:00.10 /System/Library/Frameworks/Contacts.framework/Support/contactsd
+_spotlight        2172   0,0  0,0 426964384   7664   ??  S    jue09AM   0:00.10 /System/Library/Frameworks/Contacts.framework/Support/contactsd
+_accessoryupdater  2173   0,0  0,0 426964400   7696   ??  S    jue09AM   0:00.10 /System/Library/Frameworks/Contacts.framework/Support/contactsd
+vicen             2140   0,0  0,0 426895344   6320   ??  Ss   jue09AM   0:05.63 /System/Library/Frameworks/VideoToolbox.framework/Versions/A/XPCServices/VTDecoderXPCService.xpc/Contents/MacOS/VTDecoderXPCService
+vicen             2138   0,0  0,1 410900080  17408   ??  Ss   jue09AM   0:02.25 /System/Library/Frameworks/VideoToolbox.framework/Versions/A/XPCServices/VTEncoderXPCService.xpc/Contents/MacOS/VTEncoderXPCService
+vicen             2137   0,0  0,0 410292032   2512   ??  Ss   jue09AM   0:00.09 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+vicen             2136   0,0  0,1 410566480  24816   ??  Ss   jue09AM   0:12.09 /System/Library/PrivateFrameworks/MediaConversionService.framework/Versions/A/XPCServices/com.apple.photos.VideoConversionService.xpc/Contents/MacOS/com.apple.photos.VideoConversionService
+_coreaudiod       2127   0,0  0,0 426964384   7648   ??  S    jue09AM   0:00.12 /System/Library/Frameworks/Contacts.framework/Support/contactsd
+_softwareupdate   2126   0,0  0,0 426964400   7648   ??  S    jue09AM   0:00.11 /System/Library/Frameworks/Contacts.framework/Support/contactsd
+_windowserver     2125   0,0  0,0 426964384   7632   ??  S    jue09AM   0:00.12 /System/Library/Frameworks/Contacts.framework/Support/contactsd
+root              2122   0,0  0,0 426964384   7680   ??  S    jue09AM   0:00.12 /System/Library/Frameworks/Contacts.framework/Support/contactsd
+vicen             2124   0,0  0,0 426964992   6848   ??  S    jue09AM   0:00.15 /usr/libexec/ciphermld
+_cmiodalassistants  2116   0,0  0,0 426964400   7696   ??  S    jue09AM   0:00.09 /System/Library/Frameworks/Contacts.framework/Support/contactsd
+_locationd        2117   0,0  0,0 426964400   7696   ??  S    jue09AM   0:00.09 /System/Library/Frameworks/Contacts.framework/Support/contactsd
+root              2108   0,0  0,0 426928064   3680   ??  Ss   jue09AM   0:00.05 /usr/libexec/griddatad
+root              2107   0,0  0,1 426966048  11456   ??  Ss   jue09AM   0:01.13 /usr/libexec/ospredictiond
+root              2093   0,0  0,0 426965984   5216   ??  Ss   jue09AM   0:00.05 /usr/libexec/sysdiagnosed
+root              2068   0,0  0,0 426932544   4096   ??  Ss   jue09AM   0:00.05 /usr/libexec/microstackshot
+vicen             2055   0,0  0,3 427347744  54896   ??  Ss   jue09AM   0:06.10 /System/Library/PrivateFrameworks/UIFoundation.framework/Versions/A/XPCServices/nsattributedstringagent.xpc/Contents/MacOS/nsattributedstringagent
+_softwareupdate   2053   0,0  0,0 426928464   2832   ??  S    jue09AM   0:00.06 /System/Library/Frameworks/MediaAccessibility.framework/Versions/A/XPCServices/com.apple.accessibility.mediaaccessibilityd.xpc/Contents/MacOS/com.apple.accessibility.mediaaccessibilityd
+_softwareupdate   2050   0,0  0,0 426932528   2576   ??  S    jue09AM   0:00.06 /usr/sbin/cfprefsd agent
+_softwareupdate   2048   0,0  0,0 426932656   3264   ??  S    jue09AM   0:01.29 /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/Versions/A/XPCServices/com.apple.hiservices-xpcservice.xpc/Contents/MacOS/com.apple.hiservices-xpcservice
+_softwareupdate   2044   0,0  0,3 427352176  49376   ??  Ss   jue09AM   0:05.22 /System/Library/PrivateFrameworks/UIFoundation.framework/Versions/A/XPCServices/nsattributedstringagent.xpc/Contents/MacOS/nsattributedstringagent
+vicen             2025   0,0  0,0 410768944   6896   ??  Ss   jue09AM   0:00.11 /System/Library/PrivateFrameworks/RemoteManagement.framework/XPCServices/ASConfigurationSubscriber.xpc/Contents/MacOS/ASConfigurationSubscriber
+vicen             2024   0,0  0,0 410734464   4672   ??  Ss   jue09AM   0:00.09 /System/Library/PrivateFrameworks/RemoteManagement.framework/XPCServices/ManagementTestSubscriber.xpc/Contents/MacOS/ManagementTestSubscriber
+vicen             2023   0,0  0,0 410931136   8256   ??  Ss   jue09AM   0:00.13 /System/Library/PrivateFrameworks/RemoteManagement.framework/XPCServices/AccountSubscriber.xpc/Contents/MacOS/AccountSubscriber
+vicen             2022   0,0  0,0 410734496   3712   ??  Ss   jue09AM   0:00.08 /System/Library/PrivateFrameworks/RemoteManagement.framework/XPCServices/PasscodeSettingsSubscriber.xpc/Contents/MacOS/PasscodeSettingsSubscriber
+vicen             2021   0,0  0,0 410734464   3696   ??  Ss   jue09AM   0:00.06 /System/Library/PrivateFrameworks/RemoteManagement.framework/XPCServices/LegacyProfilesSubscriber.xpc/Contents/MacOS/LegacyProfilesSubscriber
+vicen             2016   0,0  0,0 410867248   3888   ??  Ss   jue09AM   0:00.09 /System/Library/PrivateFrameworks/RemoteManagement.framework/XPCServices/MathSettingsSubscriber.xpc/Contents/MacOS/MathSettingsSubscriber
+vicen             2012   0,0  0,0 410735008   6640   ??  Ss   jue09AM   0:00.12 /System/Library/PrivateFrameworks/RemoteManagement.framework/XPCServices/ScreenSharingSubscriber.xpc/Contents/MacOS/ScreenSharingSubscriber
+vicen             2011   0,0  0,0 410865536   3728   ??  Ss   jue09AM   0:00.09 /System/Library/PrivateFrameworks/RemoteManagement.framework/XPCServices/InteractiveLegacyProfilesSubscriber.xpc/Contents/MacOS/InteractiveLegacyProfilesSubscriber
+vicen             2010   0,0  0,0 410734528   4784   ??  Ss   jue09AM   0:00.09 /System/Library/PrivateFrameworks/RemoteManagement.framework/XPCServices/SecuritySubscriber.xpc/Contents/MacOS/SecuritySubscriber
+vicen             2009   0,0  0,0 410901056   6560   ??  Ss   jue09AM   0:00.11 /System/Library/PrivateFrameworks/SafariFoundation.framework/Versions/A/XPCServices/SafariConfigurationSubscriber.xpc/Contents/MacOS/SafariConfigurationSubscriber
+vicen             2008   0,0  0,0 426966592   6656   ??  S    jue09AM   0:00.12 /System/Library/PrivateFrameworks/RemoteManagement.framework/RemoteManagementAgent
+vicen             2007   0,0  0,0 426965808   5808   ??  S    jue09AM   0:00.48 /usr/libexec/proactiveeventtrackerd
+_nsurlsessiond    1992   0,0  0,0 410865120   4128   ??  Ss   jue09AM   0:00.44 /System/Library/PrivateFrameworks/StreamingZip.framework/Versions/A/XPCServices/com.apple.StreamingUnzipService.privileged.xpc/Contents/MacOS/com.apple.StreamingUnzipService.privileged
+root              1968   0,0  0,0 426927872   2736   ??  Ss   jue09AM   0:00.08 /System/Library/PrivateFrameworks/Noticeboard.framework/Versions/A/Resources/nbstated
+_gamecontrollerd  1963   0,0  0,0 410898272   5632   ??  S    jue09AM   0:00.12 /System/Library/PrivateFrameworks/GameControllerFoundation.framework/Versions/A/XPCServices/GameControllerConfigService.xpc/Contents/MacOS/GameControllerConfigService
+vicen             1962   0,0  0,1 431504960  22224   ??  S    jue09AM   0:00.94 /System/Library/PrivateFrameworks/Noticeboard.framework/Versions/A/Resources/nbagent.app/Contents/MacOS/nbagent
+vicen             1926   0,0  0,0 426929408   5728   ??  S    jue09AM   0:00.18 /usr/libexec/backgroundassets.user
+vicen             1912   0,0  0,0 426966224   1632   ??  Ss   jue09AM   0:00.25 /System/Library/PrivateFrameworks/MessagesBlastDoorSupport.framework/Versions/A/XPCServices/MessagesBlastDoorService.xpc/Contents/MacOS/MessagesBlastDoorService
+vicen             1897   0,0  0,1 426972800  17728   ??  S    jue09AM   0:01.69 /usr/libexec/tipsd
+vicen             1896   0,0  0,0 426964848   7168   ??  S    jue09AM   0:00.15 /System/Library/PrivateFrameworks/BusinessChatService.framework/businessservicesd
+vicen             1885   0,0  0,0 410899152   7280   ??  Ss   jue09AM   0:00.16 /System/Library/PrivateFrameworks/CloudTelemetry.framework/Versions/A/XPCServices/CloudTelemetryService.xpc/Contents/MacOS/CloudTelemetryService
+vicen             1884   0,0  0,2 426994000  32976   ??  S    jue09AM   0:07.58 /System/Library/PrivateFrameworks/PhotoAnalysis.framework/Versions/A/Support/photoanalysisd
+vicen             1882   0,0  0,1 426969424   9616   ??  S    jue09AM   0:00.34 /System/Library/PrivateFrameworks/PrivateCloudCompute.framework/privatecloudcomputed.app/Contents/MacOS/privatecloudcomputed
+vicen             1875   0,0  0,1 426998976  22336   ??  S    jue09AM   0:05.30 cloudphotod
+root              1348   0,0  0,0 426928480   4560   ??  Ss   jue08AM   0:00.04 /System/Library/CoreServices/Applications/Feedback Assistant.app/Contents/Library/LaunchServices/fbahelperd
+vicen             1347   0,0  0,0 426965408   6432   ??  S    jue08AM   0:00.09 /usr/libexec/betaenrollmentd
+vicen             1298   0,0  0,0 426932720   7680   ??  S    jue08AM   0:00.10 /usr/libexec/inputanalyticsd
+root              1293   0,0  0,1 426965648  10480   ??  Ss   jue08AM   0:00.10 /System/Library/PrivateFrameworks/XprotectFramework.framework/Versions/A/XPCServices/XProtectUpdateService.xpc/Contents/MacOS/XProtectUpdateService
+root              1289   0,0  0,0 426932128   3648   ??  Ss   jue08AM   0:00.18 /usr/libexec/mmaintenanced
+_fpsd             1291   0,0  0,0 426968976   4528   ??  Ss   jue08AM   0:00.09 /usr/libexec/fairplaydeviceidentityd
+root              1290   0,0  0,0 426960112   4432   ??  Ss   jue08AM   0:00.05 /usr/libexec/tzd
+root              1270   0,0  0,0 426929376   4944   ??  Ss   jue08AM   0:00.08 /usr/libexec/ASPCarryLog
+vicen             1254   0,0  0,0 426929264   6336   ??  S    jue08AM   0:01.17 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker -s mdworker-sizing -c MDSSizingWorker -m com.apple.mdworker.sizing
+vicen             1161   0,0  0,1 426965104  11792   ??  S    jue08AM   0:00.18 /System/Library/CoreServices/EscrowSecurityAlert.app/Contents/MacOS/EscrowSecurityAlert
+vicen             1156   0,0  0,0 426933104   7888   ??  Ss   jue08AM   0:00.39 /System/Library/Frameworks/ExtensionFoundation.framework/Versions/A/XPCServices/extensionkitservice.xpc/Contents/MacOS/extensionkitservice
+vicen             1155   0,0  0,1 411225760  13696   ??  S    jue08AM   0:00.85 /usr/libexec/mlhostd
+vicen             1154   0,0  0,1 426964864  10000   ??  S    jue08AM   0:00.33 /System/Library/PrivateFrameworks/DeviceCheckInternal.framework/devicecheckd
+vicen             1147   0,0  0,1 410808528  12352   ??  S    jue08AM   0:00.15 /System/Library/PrivateFrameworks/GroupKit.framework/Versions/A/Support/groupkitd
+root              1126   0,0  0,0 410772224   3280   ??  Ss   jue08AM   0:00.10 /usr/libexec/online-auth-agent
+vicen             1125   0,0  0,1 426968752  19952   ??  S    jue08AM   0:00.69 /usr/libexec/adprivacyd
+vicen             1123   0,0  0,1 426932720   9680   ??  S    jue08AM   0:00.08 /usr/libexec/feedbackd
+vicen             1124   0,0  0,1 426965584   8960   ??  S    jue08AM   0:00.15 /usr/libexec/diagnosticextensionsd
+vicen             1111   0,0  0,1 426976816  19600   ??  Ss   jue08AM   0:00.05 /System/Applications/Messages.app/Contents/Extensions/MessagesActionExtension.appex/Contents/MacOS/MessagesActionExtension
+vicen             1109   0,0  0,0 426933216   4496   ??  Ss   jue08AM   0:00.03 /System/Library/Frameworks/ExtensionFoundation.framework/Versions/A/XPCServices/extensionkitservice.xpc/Contents/MacOS/extensionkitservice
+vicen             1082   0,0  0,1 443993808  21936   ??  S    jue08AM   0:02.41 /Applications/Docker.app/Contents/MacOS/Docker Desktop.app/Contents/Frameworks/Docker Desktop Helper.app/Contents/MacOS/Docker Desktop Helper --type=utility --utility-sub-type=network.mojom.NetworkService --lang=es --service-sandbox-type=network --user-data-dir=/Users/vicen/Library/Application Support/Docker Desktop --standard-schemes=app --secure-schemes=app --fetch-schemes=scout-graphql,docker-hub,docker-extensions-be,project-api --shared-files --field-trial-handle=1718379636,r,1805320494065196323,8618836226818728892,262144 --enable-features=kWebSQLAccess --disable-features=SpareRendererForSitePerProcess --variations-seed-version --seatbelt-client=52
+vicen             1081   0,0  0,3 444068368  44592   ??  S    jue08AM   0:18.38 /Applications/Docker.app/Contents/MacOS/Docker Desktop.app/Contents/Frameworks/Docker Desktop Helper (GPU).app/Contents/MacOS/Docker Desktop Helper (GPU) --type=gpu-process --user-data-dir=/Users/vicen/Library/Application Support/Docker Desktop --gpu-preferences=WAAAAAAAAAAgAAAEAAAAAAAAAAAAAAAAAABgAAAAAAA4AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAaAcAAAAAAABoBwAAAAAAAHgCAABOAAAAcAIAAAAAAAB4AgAAAAAAAIACAAAAAAAAiAIAAAAAAACQAgAAAAAAAJgCAAAAAAAAoAIAAAAAAACoAgAAAAAAALACAAAAAAAAuAIAAAAAAADAAgAAAAAAAMgCAAAAAAAA0AIAAAAAAADYAgAAAAAAAOACAAAAAAAA6AIAAAAAAADwAgAAAAAAAPgCAAAAAAAAAAMAAAAAAAAIAwAAAAAAABADAAAAAAAAGAMAAAAAAAAgAwAAAAAAACgDAAAAAAAAMAMAAAAAAAA4AwAAAAAAAEADAAAAAAAASAMAAAAAAABQAwAAAAAAAFgDAAAAAAAAYAMAAAAAAABoAwAAAAAAAHADAAAAAAAAeAMAAAAAAACAAwAAAAAAAIgDAAAAAAAAkAMAAAAAAACYAwAAAAAAAKADAAAAAAAAqAMAAAAAAACwAwAAAAAAALgDAAAAAAAAwAMAAAAAAADIAwAAAAAAANADAAAAAAAA2AMAAAAAAADgAwAAAAAAAOgDAAAAAAAA8AMAAAAAAAD4AwAAAAAAAAAEAAAAAAAACAQAAAAAAAAQBAAAAAAAABgEAAAAAAAAIAQAAAAAAAAoBAAAAAAAADAEAAAAAAAAOAQAAAAAAABABAAAAAAAAEgEAAAAAAAAUAQAAAAAAABYBAAAAAAAAGAEAAAAAAAAaAQAAAAAAABwBAAAAAAAAHgEAAAAAAAAgAQAAAAAAACIBAAAAAAAAJAEAAAAAAAAmAQAAAAAAACgBAAAAAAAAKgEAAAAAAAAsAQAAAAAAAC4BAAAAAAAAMAEAAAAAAAAyAQAAAAAAADQBAAAAAAAANgEAAAAAAAAEAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAEAAAAQAAAAAAAAAAAAAAACAAAAEAAAAAAAAAAAAAAAAwAAABAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAAAAAAAHAAAAEAAAAAAAAAAAAAAACAAAABAAAAAAAAAAAAAAAAkAAAAQAAAAAAAAAAAAAAALAAAAEAAAAAAAAAAAAAAADAAAABAAAAAAAAAAAAAAAA4AAAAQAAAAAAAAAAAAAAAPAAAAEAAAAAAAAAAAAAAAEAAAABAAAAAAAAAAAQAAAAAAAAAQAAAAAAAAAAEAAAABAAAAEAAAAAAAAAABAAAAAgAAABAAAAAAAAAAAQAAAAMAAAAQAAAAAAAAAAEAAAAGAAAAEAAAAAAAAAABAAAABwAAABAAAAAAAAAAAQAAAAgAAAAQAAAAAAAAAAEAAAAJAAAAEAAAAAAAAAABAAAACwAAABAAAAAAAAAAAQAAAAwAAAAQAAAAAAAAAAEAAAAOAAAAEAAAAAAAAAABAAAADwAAABAAAAAAAAAAAQAAABAAAAAQAAAAAAAAAAQAAAAAAAAAEAAAAAAAAAAEAAAAAQAAABAAAAAAAAAABAAAAAIAAAAQAAAAAAAAAAQAAAADAAAAEAAAAAAAAAAEAAAABgAAABAAAAAAAAAABAAAAAcAAAAQAAAAAAAAAAQAAAAIAAAAEAAAAAAAAAAEAAAACQAAABAAAAAAAAAABAAAAAsAAAAQAAAAAAAAAAQAAAAMAAAAEAAAAAAAAAAEAAAADgAAABAAAAAAAAAABAAAAA8AAAAQAAAAAAAAAAQAAAAQAAAAEAAAAAAAAAAHAAAAAAAAABAAAAAAAAAABwAAAAEAAAAQAAAAAAAAAAcAAAACAAAAEAAAAAAAAAAHAAAAAwAAABAAAAAAAAAABwAAAAYAAAAQAAAAAAAAAAcAAAAHAAAAEAAAAAAAAAAHAAAACAAAABAAAAAAAAAABwAAAAkAAAAQAAAAAAAAAAcAAAALAAAAEAAAAAAAAAAHAAAADAAAABAAAAAAAAAABwAAAA4AAAAQAAAAAAAAAAcAAAAPAAAAEAAAAAAAAAAHAAAAEAAAABAAAAAAAAAACAAAAAAAAAAQAAAAAAAAAAgAAAABAAAAEAAAAAAAAAAIAAAAAgAAABAAAAAAAAAACAAAAAMAAAAQAAAAAAAAAAgAAAAGAAAAEAAAAAAAAAAIAAAABwAAABAAAAAAAAAACAAAAAgAAAAQAAAAAAAAAAgAAAAJAAAAEAAAAAAAAAAIAAAACwAAABAAAAAAAAAACAAAAAwAAAAQAAAAAAAAAAgAAAAOAAAAEAAAAAAAAAAIAAAADwAAABAAAAAAAAAACAAAABAAAAAQAAAAAAAAAAoAAAAAAAAAEAAAAAAAAAAKAAAAAQAAABAAAAAAAAAACgAAAAIAAAAQAAAAAAAAAAoAAAADAAAAEAAAAAAAAAAKAAAABgAAABAAAAAAAAAACgAAAAcAAAAQAAAAAAAAAAoAAAAIAAAAEAAAAAAAAAAKAAAACQAAABAAAAAAAAAACgAAAAsAAAAQAAAAAAAAAAoAAAAMAAAAEAAAAAAAAAAKAAAADgAAABAAAAAAAAAACgAAAA8AAAAQAAAAAAAAAAoAAAAQAAAACAAAAAAAAAAIAAAAAAAAAA== --shared-files --field-trial-handle=1718379636,r,1805320494065196323,8618836226818728892,262144 --enable-features=kWebSQLAccess --disable-features=SpareRendererForSitePerProcess --variations-seed-version --seatbelt-client=52
+vicen             1070   0,0  0,7 1588014496 114816   ??  S    jue08AM   1:39.04 /Applications/Docker.app/Contents/MacOS/Docker Desktop.app/Contents/MacOS/Docker Desktop --reason=open-tray --analytics-enabled=true --name=dashboard
+vicen             1060   0,0  0,1 426976320  22272   ??  S    jue08AM   0:01.19 /System/Library/PrivateFrameworks/BookDataStore.framework/Support/bookdatastored
+vicen             1059   0,0  0,1 426969744  16016   ??  S    jue08AM   0:00.51 /System/Library/PrivateFrameworks/BookLibraryCore.framework/Support/bookassetd
+vicen             1058   0,0  0,1 426978704  11824   ??  S    jue08AM   0:00.48 /System/Library/PrivateFrameworks/BookKit.framework/Versions/A/XPCServices/com.apple.BKAgentService.xpc/Contents/MacOS/com.apple.BKAgentService
+vicen             1046   0,0  0,2 411369760  25600   ??  S    jue08AM   0:02.04 docker serve --address unix:///Users/vicen/.docker/run/docker-cli-api.sock
+vicen             1045   0,0  0,2 411551952  25696   ??  S    jue08AM   0:01.26 com.docker.build
+vicen             1044   0,0  0,0 411331280   1904   ??  S    jue08AM   0:00.04 com.docker.dev-envs -watchdog
+vicen             1032   0,0  0,7 413518528 120032   ??  S    jue08AM   2:04.35 /Applications/Docker.app/Contents/MacOS/com.docker.backend
+_rmd              1016   0,0  0,0 410735136   4000   ??  Ss   jue08AM   0:00.07 /System/Library/PrivateFrameworks/RemoteManagement.framework/XPCServices/ManagedConfigurationFilesSubscriber.xpc/Contents/MacOS/ManagedConfigurationFilesSubscriber
+vicen             1015   0,0  0,1 426965952  10192   ??  S    jue08AM   0:00.10 /System/Library/PrivateFrameworks/WeatherDaemon.framework/weatherd
+_rmd              1014   0,0  0,0 410865520   4416   ??  Ss   jue08AM   0:00.09 /System/Library/PrivateFrameworks/RemoteManagement.framework/XPCServices/ManagementTestSubscriber.xpc/Contents/MacOS/ManagementTestSubscriber
+_rmd              1013   0,0  0,0 410735072   6096   ??  Ss   jue08AM   0:00.09 /System/Library/PrivateFrameworks/RemoteManagement.framework/XPCServices/SoftwareUpdateSubscriber.xpc/Contents/MacOS/SoftwareUpdateSubscriber
+_rmd              1012   0,0  0,0 410734480   3744   ??  Ss   jue08AM   0:00.06 /System/Library/PrivateFrameworks/RemoteManagement.framework/XPCServices/DiskManagementSubscriber.xpc/Contents/MacOS/DiskManagementSubscriber
+_rmd              1011   0,0  0,0 410734496   3696   ??  Ss   jue08AM   0:00.06 /System/Library/PrivateFrameworks/RemoteManagement.framework/XPCServices/PasscodeSettingsSubscriber.xpc/Contents/MacOS/PasscodeSettingsSubscriber
+_rmd              1010   0,0  0,0 410866096   3680   ??  Ss   jue08AM   0:00.07 /System/Library/PrivateFrameworks/RemoteManagement.framework/XPCServices/LegacyProfilesSubscriber.xpc/Contents/MacOS/LegacyProfilesSubscriber
+_rmd              1007   0,0  0,0 410734992   6560   ??  Ss   jue08AM   0:00.11 /System/Library/PrivateFrameworks/RemoteManagement.framework/XPCServices/ScreenSharingSubscriber.xpc/Contents/MacOS/ScreenSharingSubscriber
+_rmd              1006   0,0  0,0 410734464   3712   ??  Ss   jue08AM   0:00.09 /System/Library/PrivateFrameworks/RemoteManagement.framework/XPCServices/InteractiveLegacyProfilesSubscriber.xpc/Contents/MacOS/InteractiveLegacyProfilesSubscriber
+_rmd              1005   0,0  0,0 426932480   2336   ??  S    jue08AM   0:01.02 /usr/sbin/distnoted agent
+_rmd              1004   0,0  0,0 410865584   4448   ??  Ss   jue08AM   0:00.09 /System/Library/PrivateFrameworks/RemoteManagement.framework/XPCServices/SecuritySubscriber.xpc/Contents/MacOS/SecuritySubscriber
+_rmd              1003   0,0  0,0 426966576   6480   ??  Ss   jue08AM   0:00.15 /System/Library/PrivateFrameworks/RemoteManagement.framework/remotemanagementd
+vicen             1002   0,0  0,0 426967728   8192   ??  S    jue08AM   0:00.21 /System/Library/PrivateFrameworks/IntelligencePlatformCore.framework/Versions/A/intelligenceplatformd
+vicen             1001   0,0  0,0 426928672   1632   ??  S    jue08AM   0:00.05 /System/Library/PrivateFrameworks/MobileAccessoryUpdater.framework/Support/fudHelperAgent
+vicen              999   0,0  0,1 426967056  24960   ??  S    jue08AM   0:34.51 /System/Library/PrivateFrameworks/UsageTracking.framework/Versions/A/UsageTrackingAgent
+vicen              998   0,0  0,0 426961104   7280   ??  S    jue08AM   0:00.10 /System/Library/PrivateFrameworks/LockdownMode.framework/Versions/A/XPCServices/lockdownmoded
+vicen              997   0,0  0,1 426966800  17328   ??  S    jue08AM   0:00.40 /System/Library/PrivateFrameworks/GeoAnalytics.framework/geoanalyticsd
+root               978   0,0  0,2 426980352  32384   ??  Ss   jue08AM   2:11.28 /usr/libexec/PerfPowerServices
+_accessoryupdater   972   0,0  0,0 426964112   3984   ??  S    jue08AM   0:00.13 /usr/libexec/containermanagerd --runmode=agent --user-container-mode=current --bundle-container-mode=proxy --system-container-mode=none
+_accessoryupdater   971   0,0  0,1 426968672  11408   ??  S    jue08AM   0:00.56 /usr/libexec/trustd --agent
+_accessoryupdater   970   0,0  0,0 426932528   3024   ??  S    jue08AM   0:00.12 /usr/sbin/cfprefsd agent
+_accessoryupdater   969   0,0  0,0 426965840   5440   ??  S    jue08AM   0:00.11 /usr/libexec/secinitd
+_accessoryupdater   968   0,0  0,1 426969904  19872   ??  S    jue08AM   0:01.60 /System/Library/PrivateFrameworks/GeoServices.framework/Versions/A/XPCServices/com.apple.geod.xpc/Contents/MacOS/com.apple.geod
+vicen              967   0,0  0,1 427024304  20880   ??  S    jue08AM   0:01.40 /System/Library/CoreServices/PowerChime.app/Contents/MacOS/PowerChime
+root               966   0,0  0,0 426969376   6784   ??  Ss   jue08AM   0:00.22 /System/Library/PrivateFrameworks/CoreAccessories.framework/Support/accessoryd
+root               953   0,0  0,0 426929056   6960   ??  Ss   jue08AM   0:00.08 /usr/libexec/rapportd --system
+root               932   0,0  0,0 411101440   4352   ??  Ss   jue08AM   0:00.07 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
+root               931   0,0  0,0 411355392   4128   ??  Ss   jue08AM   0:00.08 /System/Library/Frameworks/Metal.framework/Versions/A/XPCServices/MTLCompilerService.xpc/Contents/MacOS/MTLCompilerService
+vicen              894   0,0  0,0 426928432   2352   ??  Ss   jue08AM   0:00.01 /System/Library/Frameworks/ColorSync.framework/Versions/A/XPCServices/com.apple.ColorSyncXPCAgent.xpc/Contents/MacOS/com.apple.ColorSyncXPCAgent
+vicen              892   0,0  0,0 426964912   5024   ??  S    jue08AM   0:00.07 /System/Library/Frameworks/ColorSync.framework/Support/colorsync.useragent
+root               869   0,0  0,0 410312512   2512   ??  Ss   jue08AM   0:00.04 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+vicen              867   0,0  0,0 426928480   4848   ??  S    jue08AM   0:00.06 /usr/libexec/metrickitd
+vicen              857   0,0  0,1 426965440  12496   ??  S    jue08AM   0:01.15 /System/Library/PrivateFrameworks/CascadeSets.framework/Versions/A/XPCServices/SetStoreUpdateService.xpc/Contents/MacOS/SetStoreUpdateService
+vicen              850   0,0  0,2 410978864  34640   ??  Ss   jue08AM   0:00.66 /System/Library/PrivateFrameworks/SiriSuggestionsSupport.framework/Versions/A/XPCServices/SiriSuggestionsBookkeepingService.xpc/Contents/MacOS/SiriSuggestionsBookkeepingService
+vicen              848   0,0  0,1 410538320  24032   ??  S    jue08AM   0:02.59 /System/Library/PrivateFrameworks/SiriInference.framework/Versions/A/siriinferenced
+vicen              847   0,0  0,2 426974096  26208   ??  S    jue08AM   0:03.26 /System/Library/PrivateFrameworks/CallHistory.framework/Support/CallHistorySyncHelper
+vicen              841   0,0  0,0 426928448   3376   ??  S    jue08AM   0:00.03 /System/Library/PrivateFrameworks/ToneLibrary.framework/Versions/A/XPCServices/com.apple.tonelibraryd.xpc/Contents/MacOS/com.apple.tonelibraryd
+_audiomxd          838   0,0  0,0 426932480   2336   ??  S    jue08AM   0:01.07 /usr/sbin/distnoted agent
+_audiomxd          837   0,0  0,1 426883408  11616   ??  Ss   jue08AM   0:00.86 /usr/libexec/audiomxd
+vicen              833   0,0  0,5 427565264  76448   ??  S    jue08AM   0:06.61 /System/Library/Services/AppleSpell.service/Contents/MacOS/AppleSpell
+vicen              834   0,0  0,2 427044240  34896   ??  S    jue08AM   0:01.40 /usr/libexec/naturallanguaged
+vicen              832   0,0  0,1 431290624  10672   ??  S    jue08AM   0:00.37 /System/Library/PrivateFrameworks/CoreSuggestions.framework/Versions/A/Support/reversetemplated
+vicen              829   0,0  0,1 412085024  22736   ??  S    jue08AM   0:01.13 /System/Library/Frameworks/LocalAuthentication.framework/Support/coreautha.bundle/Contents/MacOS/coreautha
+vicen              828   0,0  0,1 426965952  13536   ??  S    jue08AM   0:00.52 /System/Library/PrivateFrameworks/EmailDaemon.framework/Versions/A/maild
+vicen              827   0,0  0,1 427248336  21232   ??  S    jue08AM   0:01.25 /System/Cryptexes/App/usr/libexec/AuthenticationServicesAgent
+vicen              826   0,0  0,1 426965424  10768   ??  S    jue08AM   0:00.82 /System/Library/PrivateFrameworks/Synapse.framework/Support/contentlinkingd
+vicen              804   0,0  0,1 426967456   9600   ??  S    jue08AM   0:00.30 /System/Cryptexes/App/usr/libexec/PasswordBreachAgent
+vicen              818   0,0  0,0 426960736   7696   ??  S    jue08AM   0:00.10 /System/Cryptexes/App/usr/libexec/SafariNotificationAgent
+vicen              816   0,0  0,1 410939408   8624   ??  S    jue08AM   0:00.13 /usr/libexec/keychainsharingmessagingd
+vicen              815   0,0  0,1 426986032  21968   ??  S    jue08AM   0:04.32 /System/Library/PrivateFrameworks/SafariSafeBrowsing.framework/com.apple.Safari.SafeBrowsing.Service
+vicen              813   0,0  0,0 427128320   6080   ??  S    jue08AM   0:00.11 /System/Cryptexes/App/usr/libexec/webpushd --machServiceName com.apple.webkit.webpushd.service
+vicen              807   0,0  0,0 426960736   7872   ??  S    jue08AM   0:00.06 /System/Cryptexes/App/usr/libexec/SafariLaunchAgent
+vicen              803   0,0  0,1 426967136  14480   ??  S    jue08AM   0:05.01 /System/Library/Frameworks/Translation.framework/translationd
+vicen              800   0,0  0,1 427133600  21296   ??  S    jue08AM   0:02.80 /System/Cryptexes/App/System/Library/CoreServices/SafariSupport.bundle/Contents/MacOS/SafariBookmarksSyncAgent
+vicen              798   0,0  0,1 426970640  12496   ??  S    jue08AM   0:00.49 /System/Library/Frameworks/FinanceKit.framework/financed
+root               797   0,0  0,0 426936672   2288   ??  Ss   jue08AM   0:00.04 /System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/CVMServer
+vicen              795   0,0  0,1 426968544  12144   ??  S    jue08AM   0:00.45 /System/Library/PrivateFrameworks/WebPrivacy.framework/webprivacyd
+vicen              794   0,0  0,2 426977216  26672   ??  S    jue08AM   0:01.11 /System/Library/PrivateFrameworks/PassKitCore.framework/passd
+vicen              793   0,0  0,4 427089680  59408   ??  S    jue08AM   0:32.66 /System/Cryptexes/App/usr/libexec/com.apple.Safari.History
+vicen              768   0,0  0,1 410898544  13424   ??  Ss   jue08AM   0:03.35 /System/Library/PrivateFrameworks/AppPredictionFoundation.framework/Versions/A/XPCServices/AppPredictionIntentsHelperService.xpc/Contents/MacOS/AppPredictionIntentsHelperService
+root               767   0,0  0,0 426931984   3456   ??  Ss   jue08AM   0:00.05 /System/Library/CoreServices/CrashReporterSupportHelper server-init
+vicen              766   0,0  0,1 426971632  14128   ??  S    jue08AM   0:00.26 /System/Library/PrivateFrameworks/TextToSpeechVoiceBankingSupport.framework/Support/voicebankingd
+vicen              765   0,0  0,0 410673360   5792   ??  Ss   jue08AM   0:00.10 /System/Library/PrivateFrameworks/SiriTTSService.framework/Versions/A/XPCServices/com.apple.SiriTTSService.TrialProxy.xpc/Contents/MacOS/com.apple.SiriTTSService.TrialProxy
+vicen              764   0,0  0,0 410328896   2512   ??  Ss   jue08AM   0:00.02 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+vicen              763   0,0  0,0 410320704   2512   ??  Ss   jue08AM   0:00.03 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+vicen              762   0,0  0,0 410303296   2512   ??  Ss   jue08AM   0:00.04 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+vicen              761   0,0  0,1 410252144   9216   ??  Ss   jue08AM   0:00.03 /System/Library/PrivateFrameworks/TextToSpeech.framework/PlugIns/SiriAUSP.appex/Contents/MacOS/SiriAUSP -AppleLanguages ("es-ES")
+vicen              760   0,0  0,1 410524656  12512   ??  Ss   jue08AM   0:00.08 /System/Library/PrivateFrameworks/MacinTalk.framework/Versions/A/PlugIns/MacinTalkAUSP.appex/Contents/MacOS/MacinTalkAUSP -AppleLanguages ("es-ES")
+vicen              759   0,0  0,1 426971520  14400   ??  S    jue08AM   0:02.77 /System/Library/PrivateFrameworks/MapsSync.framework/mapssyncd
+vicen              757   0,0  0,2 427017872  39712   ??  S    jue08AM   0:47.91 /usr/libexec/duetexpertd
+vicen              756   0,0  0,1 426977392  16976   ??  S    jue08AM   0:01.73 /usr/libexec/proactived
+vicen              755   0,0  0,1 426973872  21072   ??  S    jue08AM   0:02.21 /System/Library/PrivateFrameworks/People.framework/peopled
+vicen              758   0,0  0,1 426973632  19744   ??  S    jue08AM   0:02.82 /System/Library/PrivateFrameworks/DataAccess.framework/Support/dataaccessd
+vicen              754   0,0  0,1 426965232  10304   ??  S    jue08AM   0:00.20 /System/Library/PrivateFrameworks/CoreRecents.framework/Versions/A/Support/recentsd
+vicen              753   0,0  0,0 410311488   2512   ??  Ss   jue08AM   0:00.02 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+vicen              752   0,0  0,1 410393072   9088   ??  Ss   jue08AM   0:00.04 /System/Library/PrivateFrameworks/MacinTalk.framework/Versions/A/PlugIns/WardaSynthesizer_arm64.appex/Contents/MacOS/WardaSynthesizer_arm64 -AppleLanguages ("es-ES")
+vicen              751   0,0  0,0 410650432   5184   ??  Ss   jue08AM   0:00.10 /System/Library/PrivateFrameworks/SiriTTSService.framework/Versions/A/XPCServices/com.apple.SiriTTSService.TrialProxy.xpc/Contents/MacOS/com.apple.SiriTTSService.TrialProxy
+vicen              750   0,0  0,0 410310464   2512   ??  Ss   jue08AM   0:00.02 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+vicen              749   0,0  0,0 34041884   1488   ??  Ss   jue08AM   0:00.28 /System/Library/PrivateFrameworks/MacinTalk.framework/Versions/A/PlugIns/WardaSynthesizer_x86_64.appex/Contents/MacOS/WardaSynthesizer_x86_64 -AppleLanguages ("es-ES")
+vicen              748   0,0  0,1 410506288  11488   ??  Ss   jue08AM   0:00.06 /System/Library/PrivateFrameworks/TextToSpeechMauiSupport.framework/Versions/A/PlugIns/MauiAUSP.appex/Contents/MacOS/MauiAUSP -AppleLanguages ("es-ES")
+vicen              747   0,0  0,0 410312512   2512   ??  Ss   jue08AM   0:00.04 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+vicen              746   0,0  0,1 410504096   8912   ??  Ss   jue08AM   0:00.06 /System/Library/PrivateFrameworks/TextToSpeechKonaSupport.framework/Versions/A/PlugIns/KonaSynthesizer.appex/Contents/MacOS/KonaSynthesizer -AppleLanguages ("es-ES")
+root               745   0,0  0,1 426932560   8544   ??  Ss   jue08AM   0:00.50 /usr/libexec/triald_system
+vicen              716   0,0  0,0 410160976   2880   ??  Ss   jue08AM   0:00.06 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.ComponentTagHelper.xpc/Contents/MacOS/com.apple.audio.ComponentTagHelper
+vicen              715   0,0  0,1 426965568   8656   ??  S    jue08AM   0:04.36 /Library/Apple/System/Library/CoreServices/XProtect.app/Contents/XPCServices/XProtectPluginService.xpc/Contents/MacOS/XProtectPluginService
+vicen              714   0,0  0,1 426939296   8608   ??  Ss   jue08AM   0:00.04 /System/Library/ExtensionKit/Extensions/IFTelemetrySELFIngestor.appex/Contents/MacOS/IFTelemetrySELFIngestor
+vicen              713   0,0  0,0 426933104   4480   ??  Ss   jue08AM   0:00.05 /System/Library/Frameworks/ExtensionFoundation.framework/Versions/A/XPCServices/extensionkitservice.xpc/Contents/MacOS/extensionkitservice
+vicen              712   0,0  0,1 410777984  10544   ??  Ss   jue08AM   0:00.08 /System/Library/PrivateFrameworks/SiriAnalytics.framework/Versions/A/XPCServices/SAExtensionOrchestrator.xpc/Contents/MacOS/SAExtensionOrchestrator
+_modelmanagerd     707   0,0  0,1 426988720  11344   ??  Ss   jue08AM   0:00.25 /usr/libexec/modelmanagerd
+vicen              568   0,0  0,0 426928896   5168   ??  S    jue08AM   0:00.06 /System/Library/Frameworks/FamilyControls.framework/Versions/A/FamilyControlsAgent
+_fpsd              703   0,0  0,1 426947456  15568   ??  Ss   jue08AM   0:00.34 /System/Library/PrivateFrameworks/CoreFP.framework/Versions/A/fairplayd
+vicen              702   0,0  0,0 426965408   6128   ??  S    jue08AM   0:00.17 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdwrite
+vicen              541   0,0  0,1 426966256  16208   ??  S    jue08AM   0:01.21 /System/Library/CoreServices/diagnostics_agent
+vicen              701   0,0  0,1 426976288  11360   ??  Ss   jue08AM   0:00.07 /System/Library/PrivateFrameworks/XprotectFramework.framework/Versions/A/XPCServices/XprotectService.xpc/Contents/MacOS/XprotectService
+vicen              521   0,0  0,1 426966688  24000   ??  S    jue08AM   0:05.94 /System/Library/PrivateFrameworks/AXAssetLoader.framework/Support/axassetsd
+vicen              698   0,0  0,2 426995456  35824   ??  S    jue08AM   0:21.25 /usr/libexec/searchpartyuseragent
+vicen              696   0,0  0,2 426982448  28400   ??  Ss   jue08AM   0:06.90 /System/Library/PrivateFrameworks/IntelligencePlatformCompute.framework/Versions/A/XPCServices/IntelligencePlatformComputeService.xpc/Contents/MacOS/IntelligencePlatformComputeService
+vicen              695   0,0  0,1 427098224  14800   ??  S    jue08AM   0:00.82 /System/Library/Frameworks/CoreSpotlight.framework/spotlightknowledged -u
+vicen              694   0,0  0,0 410865712   4032   ??  Ss   jue08AM   0:00.34 /System/Library/PrivateFrameworks/StreamingZip.framework/Versions/A/XPCServices/com.apple.StreamingUnzipService.xpc/Contents/MacOS/com.apple.StreamingUnzipService
+vicen              689   0,0  0,1 410968448  14192   ??  Ss   jue08AM   0:00.39 /System/Library/PrivateFrameworks/StocksKit.framework/XPCServices/StocksKitService.xpc/Contents/MacOS/StocksKitService
+root               646   0,0  0,1 426965056  13056   ??  Ss   jue08AM   0:00.19 /System/Library/CoreServices/SubmitDiagInfo server-init
+vicen              692   0,0  0,1 426969472  12480   ??  S    jue08AM   0:00.38 /usr/libexec/keyboardservicesd
+root               690   0,0  0,1 426967632   9376   ??  Ss   jue08AM   0:00.18 /System/Library/PrivateFrameworks/AuthKit.framework/Versions/A/Support/akd
+_assetcache        681   0,0  0,1 426967488  11248   ??  Ss   jue08AM   0:00.30 /System/Library/PrivateFrameworks/AssetCacheServices.framework/Versions/A/XPCServices/AssetCacheLocatorService.xpc/Contents/MacOS/AssetCacheLocatorService -d
+vicen              680   0,0  0,0 426928480   5712   ??  S    jue08AM   0:01.06 /usr/libexec/gamecontrolleragentd
+root               678   0,0  0,0 410938048   5632   ??  Ss   jue08AM   0:00.13 /private/var/db/com.apple.xpc.roleaccountd.staging/exec/16777234.26831324.xpc/Contents/MacOS/com.apple.NRD.UpdateBrainService
+root               679   0,0  0,0 426965088   3216   ??  Ss   jue08AM   0:00.09 /usr/libexec/xpcroleaccountd -launchd
+vicen              661   0,0  0,1 410902592  16768   ??  Ss   jue08AM   0:00.44 /System/Library/PrivateFrameworks/CloudTelemetry.framework/Versions/A/XPCServices/CloudTelemetryService.xpc/Contents/MacOS/CloudTelemetryService
+_locationd         671   0,0  0,1 426967280   8864   ??  S    jue08AM   0:00.39 /usr/libexec/trustd --agent
+_softwareupdate    677   0,0  0,1 426967856   9424   ??  Ss   jue08AM   0:00.31 /usr/libexec/NRDUpdated
+vicen              676   0,0  0,0 426927872   2304   ??  S    jue08AM   0:00.03 /System/Library/PrivateFrameworks/IASUtilities.framework/Versions/A/Resources/installerauthagent
+root               675   0,0  0,0 426932640   3232   ??  S    jue08AM   0:01.30 /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/Versions/A/XPCServices/com.apple.hiservices-xpcservice.xpc/Contents/MacOS/com.apple.hiservices-xpcservice
+root               670   0,0  0,1 410899696  11856   ??  Ss   jue08AM   0:00.10 /System/Library/PrivateFrameworks/XprotectFramework.framework/Versions/A/XPCServices/XProtectBridgeService.xpc/Contents/MacOS/XProtectBridgeService
+vicen              674   0,0  0,1 426932064   9632   ??  S    jue08AM   0:00.19 /usr/libexec/findmydevice-user-agent
+_gamecontrollerd   673   0,0  0,0 426932480   2352   ??  S    jue08AM   0:01.06 /usr/sbin/distnoted agent
+vicen              672   0,0  0,0 426969872   7936   ??  S    jue08AM   0:01.16 /System/Library/CoreServices/appplaceholdersyncd
+_applepay          669   0,0  0,0 426932480   2336   ??  S    jue08AM   0:01.06 /usr/sbin/distnoted agent
+_applepay          668   0,0  0,0 410824080   4832   ??  Ss   jue08AM   0:00.03 /System/Library/PrivateFrameworks/NearFieldPrivateServices.framework/Versions/A/XPCServices/NFStorageServer.xpc/Contents/MacOS/NFStorageServer
+_applepay          666   0,0  0,1 426966784  11904   ??  Ss   jue08AM   0:01.07 /usr/libexec/nfcd
+vicen              435   0,0  0,2 426985424  28704   ??  S    jue08AM   0:12.83 /System/Library/PrivateFrameworks/CoreDuetContext.framework/Resources/ContextStoreAgent
+vicen              664   0,0  0,1 427128880  22928   ??  S    jue08AM   0:00.65 /System/Library/PrivateFrameworks/SoftwareUpdate.framework/Resources/SoftwareUpdateNotificationManager.app/Contents/MacOS/SoftwareUpdateNotificationManager
+vicen              665   0,0  0,1 426972704  17136   ??  S    jue08AM   0:00.72 /usr/libexec/promotedcontentd
+vicen              534   0,0  0,1 426967616  11696   ??  S    jue08AM   0:00.87 /System/Library/PrivateFrameworks/AskPermission.framework/Versions/A/Resources/askpermissiond
+vicen              663   0,0  0,2 426977248  28272   ??  SN   jue08AM   0:06.29 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdbulkimport -s mdworker-bundle -c MDSImporterBundleFinder -m com.apple.metadata.mdbulkimport
+vicen              401   0,0  0,1 426968976  16576   ??  S    jue08AM   0:00.39 /System/Library/PrivateFrameworks/CloudServices.framework/Helpers/com.apple.sbd
+_applepay          396   0,0  0,1 426932352   8512   ??  Ss   jue08AM   0:00.28 /usr/libexec/seld
+root               658   0,0  0,0 410789280   2736   ??  Ss   jue08AM   0:00.03 /System/Library/PrivateFrameworks/AppStoreDaemon.framework/Versions/A/XPCServices/com.apple.AppStoreDaemon.StorePrivilegedODRService.xpc/Contents/MacOS/com.apple.AppStoreDaemon.StorePrivilegedODRService
+_installcoordinationd   655   0,0  0,0 426928704   4208   ??  Ss   jue08AM   0:00.04 /System/Library/PrivateFrameworks/InstallCoordination.framework/Support/installcoordinationd
+vicen              650   0,0  0,0 426928464   3952   ??  S    jue08AM   0:00.02 /System/Library/PrivateFrameworks/GeoServices.framework/geodMachServiceBridge
+vicen              649   0,0  0,2 431435184  41424   ??  S    jue08AM   1:47.35 /System/Library/PrivateFrameworks/AppStoreDaemon.framework/Support/appstoreagent
+vicen              651   0,0  0,0 426961648   6368   ??  S    jue08AM   0:00.06 /System/Library/PrivateFrameworks/CommerceKit.framework/Versions/A/Resources/storedownloadd
+_neuralengine      648   0,0  0,0 426961536   6656   ??  Ss   jue08AM   0:00.07 /usr/libexec/aneuserd
+root               654   0,0  0,0 426934608   3600   ??  Ss   jue08AM   0:00.05 /System/Library/PrivateFrameworks/AssetCacheServicesExtensions.framework/XPCServices/AssetCacheTetheratorService.xpc/Contents/MacOS/AssetCacheTetheratorService
+root               652   0,0  0,2 426968048  26800   ??  Ss   jue08AM   3:55.67 /System/Library/PrivateFrameworks/PackageKit.framework/Resources/installd
+root               653   0,0  0,0 426932544   5104   ??  Ss   jue08AM   0:00.23 /System/Library/PrivateFrameworks/PackageKit.framework/Resources/system_installd
+vicen              647   0,0  0,0 426928624   3248   ??  S    jue08AM   0:00.03 /usr/libexec/spindump_agent
+root               645   0,0  0,1 426967728  14016   ??  Ss   jue08AM   0:04.52 /usr/sbin/spindump
+vicen              644   0,0  0,1 426964416   9520   ??  S    jue08AM   0:00.05 /System/Library/PrivateFrameworks/CommunicationsFilter.framework/CMFSyncAgent
+vicen              643   0,0  0,1 426967312   8960   ??  S    jue08AM   0:00.12 /System/Library/Frameworks/ClassKit.framework/Versions/A/progressd
+vicen              642   0,0  0,1 426965792  12896   ??  S    jue08AM   0:00.18 /usr/libexec/seserviced
+vicen              425   0,0  0,2 427078704  33248   ??  S    jue08AM   0:26.13 /System/Library/PrivateFrameworks/ExchangeSync.framework/Versions/Current/exchangesyncd
+vicen              640   0,0  0,0 426928464   3792   ??  S    jue08AM   0:00.06 /System/Library/Frameworks/MediaAccessibility.framework/Versions/A/XPCServices/com.apple.accessibility.mediaaccessibilityd.xpc/Contents/MacOS/com.apple.accessibility.mediaaccessibilityd
+_gamecontrollerd   395   0,0  0,0 426932880   6816   ??  Ss   jue08AM   0:01.24 /usr/libexec/gamecontrollerd
+vicen              637   0,0  0,3 427340496  54432   ??  Ss   jue08AM   0:03.18 /System/Library/PrivateFrameworks/UIFoundation.framework/Versions/A/XPCServices/nsattributedstringagent.xpc/Contents/MacOS/nsattributedstringagent
+root               636   0,0  0,0 426932544   4448   ??  Ss   jue08AM   0:01.32 /System/Library/PrivateFrameworks/CacheDelete.framework/deleted_helper
+vicen              633   0,0  0,1 426975248  21344   ??  S    jue08AM   0:01.71 /System/Library/PrivateFrameworks/PhotoLibraryServices.framework/Versions/A/Support/photolibraryd
+vicen              632   0,0  0,1 426969232  14144   ??  S    jue08AM   0:00.69 /usr/libexec/swtransparencyd
+vicen              628   0,0  0,0 410650192   7424   ??  S    jue08AM   0:00.44 /usr/libexec/SidecarRelay
+vicen              626   0,0  0,1 426965152  14944   ??  S    jue08AM   0:00.30 /System/Library/PrivateFrameworks/GenerativeExperiencesRuntime.framework/Versions/A/generativeexperiencesd
+vicen              627   0,0  0,2 426974544  37776   ??  S    jue08AM   0:09.07 /usr/libexec/siriknowledged
+vicen              621   0,0  0,1 426972816  19472   ??  S    jue08AM   0:00.66 /System/Library/Frameworks/StoreKit.framework/Support/storekitagent
+_captiveagent      619   0,0  0,0 426933360   6064   ??  Ss   jue08AM   0:00.11 /usr/libexec/captiveagent
+vicen              618   0,0  0,0 426973664   7360   ??  Ss   jue08AM   0:00.03 /System/Applications/Tips.app/Contents/PlugIns/TipsWidgetExtension.appex/Contents/MacOS/TipsWidgetExtension
+root               616   0,0  0,1 426964464  15984   ??  Ss   jue08AM   0:03.74 /System/Library/CoreServices/osanalyticshelper server-init
+root               615   0,0  0,0 426929488   3712   ??  Ss   jue08AM   0:00.22 /System/Library/PrivateFrameworks/CoreSymbolication.framework/coresymbolicationd
+root               614   0,0  0,1 411369504  15376   ??  Ss   jue08AM   0:00.38 /System/Library/PrivateFrameworks/CloudTelemetry.framework/Versions/A/XPCServices/CloudTelemetryService.xpc/Contents/MacOS/CloudTelemetryService
+vicen              613   0,0  0,0 426932432   5504   ??  S    jue08AM   0:00.21 /usr/sbin/BTLEServerAgent
+vicen              612   0,0  0,1 426967680  12736   ??  S    jue08AM   0:00.58 /System/Library/PrivateFrameworks/Categories.framework/Versions/A/XPCServices/CategoriesService.xpc/Contents/MacOS/CategoriesService
+vicen              610   0,0  0,1 426970384  24432   ??  S    jue08AM   0:45.13 /System/Library/CoreServices/UniversalControl.app/Contents/MacOS/UniversalControl
+vicen              609   0,0  0,2 427086240  40544   ??  S    jue08AM   0:00.38 /System/Library/PrivateFrameworks/ContextKit.framework/Versions/A/XPCServices/ContextService.xpc/Contents/MacOS/ContextService
+vicen              607   0,0  0,1 426968896  15472   ??  S    jue08AM   0:00.32 /usr/libexec/findmylocateagent
+vicen              606   0,0  0,1 426977040  19840   ??  S    jue08AM   0:00.46 /System/Library/CoreServices/ScopedBookmarkAgent
+vicen              605   0,0  0,1 426986736  21408   ??  S    jue08AM   0:06.26 /usr/libexec/linkd
+vicen              600   0,0  0,1 426972496  23200   ??  S    jue08AM   0:05.70 /System/Library/PrivateFrameworks/ContactsDonation.framework/Versions/A/Support/contactsdonationagent
+vicen              598   0,0  0,4 427257824  66336   ??  Ss   jue08AM   0:34.35 /System/Applications/Weather.app/Contents/PlugIns/WeatherWidget.appex/Contents/MacOS/WeatherWidget
+vicen              599   0,0  0,1 426967552  12336   ??  S    jue08AM   0:05.35 /usr/libexec/swcd
+vicen              597   0,0  0,1 426968112  13504   ??  S    jue08AM   0:00.40 /System/Library/PrivateFrameworks/ContinuousDialogManagerService.framework/assistant_cdmd
+vicen              596   0,0  0,1 427036256   9760   ??  S    jue08AM   0:00.77 /System/Library/PrivateFrameworks/SiriTTSService.framework/sirittsd
+vicen              594   0,0  0,2 427023296  26064   ??  Ss   jue08AM   0:04.15 /System/Applications/Clock.app/Contents/PlugIns/WorldClockWidget.appex/Contents/MacOS/WorldClockWidget
+vicen              592   0,0  0,3 427183360  45696   ??  Ss   jue08AM   0:19.17 /System/Applications/Calendar.app/Contents/PlugIns/CalendarWidgetExtension.appex/Contents/MacOS/CalendarWidgetExtension
+_fpsd              593   0,0  0,0 426931008   4736   ??  Ss   jue08AM   0:02.63 /System/Library/PrivateFrameworks/CoreADI.framework/adid
+vicen              591   0,0  0,1 426974800  24304   ??  S    jue08AM   0:01.45 /System/Library/PrivateFrameworks/AssistantServices.framework/Versions/A/Support/assistantd
+vicen              590   0,0  0,2 427008144  31792   ??  Ss   jue08AM   0:09.22 /System/Library/CoreServices/Batteries.app/Contents/PlugIns/BatteriesAvocadoWidgetExtension.appex/Contents/MacOS/BatteriesAvocadoWidgetExtension
+vicen              589   0,0  0,2 412249168  36224   ??  S    jue08AM   0:05.36 /Applications/Tiles.app/Contents/MacOS/Tiles
+root               587   0,0  0,1 426965264  10992   ??  Ss   jue08AM   0:00.17 /System/Library/PrivateFrameworks/ModelCatalogRuntime.framework/Versions/A/modelcatalogd
+vicen              588   0,0  1,1 412515024 178672   ??  S    jue08AM   0:33.51 /Applications/OneDrive.app/Contents/MacOS/OneDrive
+vicen              585   0,0  0,4 427250720  63824   ??  Ss   jue08AM   0:07.78 /System/Applications/Stocks.app/Contents/PlugIns/StocksWidget.appex/Contents/MacOS/StocksWidget
+vicen              586   0,0  0,1 426968880  21760   ??  S    jue08AM   0:01.10 /System/Library/PrivateFrameworks/iCloudNotification.framework/iCloudNotificationAgent
+vicen              553   0,0  0,4 427311920  66048   ??  Ss   jue08AM   0:05.48 /System/Library/CoreServices/Screen Time.app/Contents/PlugIns/ScreenTimeWidgetExtension.appex/Contents/MacOS/ScreenTimeWidgetExtension
+vicen              582   0,0  0,1 426966720  13808   ??  S    jue08AM   0:01.62 /usr/libexec/bluetoothuserd
+vicen              580   0,0  0,1 411894864  21776   ??  Ss   jue08AM   0:04.29 /System/Library/PrivateFrameworks/CloudTelemetry.framework/Versions/A/XPCServices/CloudTelemetryService.xpc/Contents/MacOS/CloudTelemetryService
+vicen              581   0,0  0,1 426906928  15328   ??  S    jue08AM   0:01.22 /usr/libexec/avconferenced
+_assetcache        579   0,0  0,0 426967360   7680   ??  Ss   jue08AM   0:00.08 /usr/libexec/AssetCache/AssetCache
+vicen              576   0,0  0,0 426927872   4064   ??  S    jue08AM   0:00.10 /System/Library/PrivateFrameworks/MediaRemote.framework/Support/mediaremoteagent
+vicen              577   0,0  0,1 426967504  12032   ??  S    jue08AM   0:00.57 /System/Library/PrivateFrameworks/AssetCacheServices.framework/Versions/A/XPCServices/AssetCacheLocatorService.xpc/Contents/MacOS/AssetCacheLocatorService -a
+root               578   0,0  0,1 426966192  12128   ??  Ss   jue08AM   0:04.35 /usr/libexec/aned
+vicen              575   0,0  0,1 410664256   9568   ??  Ss   jue08AM   0:00.08 /System/Library/PrivateFrameworks/TelephonyUtilities.framework/XPCServices/com.apple.FaceTime.FTConversationService.xpc/Contents/MacOS/com.apple.FaceTime.FTConversationService
+vicen              574   0,0  0,1 426932384   9984   ??  S    jue08AM   0:00.12 /System/Library/Frameworks/Security.framework/Versions/A/Resources/CloudKeychainProxy.bundle/Contents/MacOS/CloudKeychainProxy
+vicen              573   0,0  0,3 426979792  46240   ??  S    jue08AM   0:03.90 /System/Library/PrivateFrameworks/HomeKitDaemon.framework/Support/homed
+vicen              572   0,0  0,1 426968576  17360   ??  S    jue08AM   0:00.75 /usr/libexec/fmfd
+vicen              569   0,0  0,1 426995232  11136   ??  Ss   jue08AM   0:00.29 /System/Library/Frameworks/Speech.framework/Versions/A/XPCServices/localspeechrecognition.xpc/Contents/MacOS/localspeechrecognition
+vicen              570   0,0  0,3 431363840  43504   ??  S    jue08AM   0:11.71 /System/Library/PrivateFrameworks/AppleMediaServicesUI.framework/amsengagementd
+vicen              544   0,0  0,1 426970176  17504   ??  S    jue08AM   0:01.76 /System/Library/PrivateFrameworks/AppleMediaServices.framework/Resources/amsaccountsd
+vicen              566   0,0  0,1 426965456  11120   ??  S    jue08AM   0:00.14 /System/Library/PrivateFrameworks/ProtectedCloudStorage.framework/Helpers/ProtectedCloudKeySyncing
+vicen              565   0,0  0,1 426982752  17328   ??  S    jue08AM   0:00.57 /System/Library/CoreServices/Keychain Circle Notification.app/Contents/MacOS/Keychain Circle Notification
+vicen              560   0,0  0,2 426973760  29296   ??  S    jue08AM   1:17.46 /System/Library/Frameworks/Contacts.framework/Support/contactsd
+vicen              563   0,0  0,2 427000704  40960   ??  S    jue08AM   0:02.86 /System/Library/PrivateFrameworks/iTunesCloud.framework/Support/itunescloudd
+vicen              558   0,0  0,0 426964384   8336   ??  S    jue08AM   0:00.21 /System/Library/PrivateFrameworks/CoreFollowUp.framework/Versions/A/Support/followupd
+vicen              559   0,0  0,1 426972768  16688   ??  S    jue08AM   0:00.58 /usr/libexec/appleaccountd
+vicen              562   0,0  0,2 426981120  26928   ??  S    jue08AM   0:13.58 /usr/libexec/networkserviceproxy
+vicen              561   0,0  0,0 426928784   2256   ??  S    jue08AM   0:00.03 /System/Library/CoreServices/ReportCrash agent
+vicen              557   0,0  0,1 426973168  24160   ??  S    jue08AM   0:04.64 /System/Library/PrivateFrameworks/IMDPersistence.framework/XPCServices/IMDPersistenceAgent.xpc/Contents/MacOS/IMDPersistenceAgent
+vicen              523   0,0  0,1 426966000  18496   ??  S    jue08AM   0:26.80 /System/Library/PrivateFrameworks/BiomeStreams.framework/Support/BiomeAgent
+vicen              556   0,0  0,0 410478432   2352   ??  Ss   jue08AM   0:00.01 /System/Library/PrivateFrameworks/WiFiPolicy.framework/XPCServices/WiFiCloudAssetsXPCService.xpc/Contents/MacOS/WiFiCloudAssetsXPCService
+vicen              555   0,0  0,1 426972672  17696   ??  S    jue08AM   0:02.48 /System/Library/PrivateFrameworks/CallHistory.framework/Support/CallHistoryPluginHelper
+root               554   0,0  0,1 426982528  16720   ??  Ss   jue08AM   0:00.81 /System/Library/PrivateFrameworks/AppSSO.framework/Support/AppSSODaemon
+vicen              552   0,0  0,1 426971072  15072   ??  S    jue08AM   0:00.92 /System/Library/PrivateFrameworks/CommerceKit.framework/Versions/A/Resources/commerce
+vicen              551   0,0  0,2 412178368  25632   ??  S    jue08AM   0:00.66 /System/Library/PrivateFrameworks/AppSSO.framework/Support/AppSSOAgent.app/Contents/MacOS/AppSSOAgent
+vicen              548   0,0  0,1 427011936  21232   ??  S    jue08AM   0:01.05 /System/Library/CoreServices/TextInputSwitcher.app/Contents/MacOS/TextInputSwitcher
+vicen              549   0,0  0,1 426943984  11264   ??  Ss   jue08AM   0:03.98 /System/Library/Frameworks/ExtensionFoundation.framework/Versions/A/XPCServices/extensionkitservice.xpc/Contents/MacOS/extensionkitservice
+root               525   0,0  0,3 412039776  47728   ??  S    jue08AM   0:13.81 /Applications/GlobalProtect.app/Contents/Resources/PanGPS
+vicen              531   0,0  0,5 416648448  87728   ??  S    jue08AM   0:20.59 /Applications/GlobalProtect.app/Contents/MacOS/GlobalProtect
+root               546   0,0  0,1 426979520  21872   ??  Ss   jue08AM   0:00.61 /System/Library/PrivateFrameworks/CloudKitDaemon.framework/Support/cloudd --system
+vicen              533   0,0  0,0 426965568   7776   ??  S    jue08AM   0:00.28 /System/Library/PrivateFrameworks/IntlPreferences.framework/Support/localizationswitcherd
+vicen              528   0,0  0,5 412614960  79200   ??  S    jue08AM   0:21.48 /Applications/AltTab.app/Contents/MacOS/AltTab
+vicen              539   0,0  0,2 426972576  34192   ??  S    jue08AM   0:07.68 /System/Library/PrivateFrameworks/IMCore.framework/imagent.app/Contents/MacOS/imagent
+vicen              519   0,0  0,1 426996928  19168   ??  S    jue08AM   0:01.85 /System/Library/PrivateFrameworks/CoreSpeech.framework/corespeechd
+vicen              530   0,0  0,0 426964976   6656   ??  S    jue08AM   0:00.19 /System/Library/Image Capture/Support/icdd
+vicen              483   0,0  0,2 426984560  41616   ??  S    jue08AM   0:09.82 /usr/libexec/knowledge-agent
+vicen              536   0,0  0,1 411912288  17248   ??  S    jue08AM   0:00.56 /System/Library/CoreServices/AirPlayUIAgent.app/Contents/MacOS/AirPlayUIAgent --launchd
+vicen              542   0,0  0,2 412228896  32304   ??  S    jue08AM   0:00.88 /System/Library/CoreServices/TextInputMenuAgent.app/Contents/MacOS/TextInputMenuAgent
+vicen              518   0,0  0,3 426972320  45520   ??  S    jue08AM   0:03.73 /System/Library/PrivateFrameworks/AuthKit.framework/Versions/A/Support/akd
+vicen              516   0,0  0,1 426966672  12160   ??  S    jue08AM   0:02.07 /System/Library/PrivateFrameworks/UserActivity.framework/Agents/useractivityd
+vicen              515   0,0  0,1 426970512  17584   ??  S    jue08AM   0:00.91 /System/Library/PrivateFrameworks/StatusKit.framework/StatusKitAgent
+vicen              512   0,0  1,0 427248768 161552   ??  S    jue08AM  10:21.71 /System/Library/PrivateFrameworks/MediaAnalysis.framework/Versions/A/mediaanalysisd
+vicen              514   0,0  0,2 426976816  27504   ??  S    jue08AM   0:04.61 /System/Library/PrivateFrameworks/FamilyCircle.framework/Versions/A/Resources/familycircled
+vicen              513   0,0  0,1 426972144  23824   ??  S    jue08AM   0:09.21 /System/Library/PrivateFrameworks/CoreParsec.framework/parsecd
+vicen              517   0,0  0,4 411054512  67024   ??  Ss   jue08AM   0:02.26 /System/Library/CoreServices/Dock.app/Contents/XPCServices/com.apple.dock.extra.xpc/Contents/MacOS/com.apple.dock.extra
+vicen              511   0,0  0,2 426983664  28928   ??  S    jue08AM   0:04.40 /System/Library/PrivateFrameworks/GeoServices.framework/Versions/A/XPCServices/com.apple.geod.xpc/Contents/MacOS/com.apple.geod
+vicen              504   0,0  0,3 427521168  51424   ??  S    jue08AM   0:41.32 /usr/libexec/sharingd
+vicen              510   0,0  0,1 427438992  24512   ??  S    jue08AM   0:06.08 /System/Library/PrivateFrameworks/ReplicatorCore.framework/Support/replicatord
+vicen              509   0,0  0,1 426896784  13168   ??  Ss   jue08AM   0:08.23 /System/Library/Frameworks/VideoToolbox.framework/Versions/A/XPCServices/VTDecoderXPCService.xpc/Contents/MacOS/VTDecoderXPCService
+vicen              508   0,0  0,7 431566304 111264   ??  S    jue08AM   0:31.96 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/corespotlightd
+vicen              507   0,0  0,1 426976144   9024   ??  S    jue08AM   0:00.21 /System/Library/CoreServices/pbs
+vicen              481   0,0  0,1 426988160  10848   ??  S    jue08AM   0:00.42 /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ATS.framework/Versions/A/Support/fontworker
+vicen              506   0,0  0,1 412074976  22352   ??  S    jue08AM   0:05.53 /System/Library/PrivateFrameworks/TextInputUIMacHelper.framework/Versions/A/XPCServices/CursorUIViewService.xpc/Contents/MacOS/CursorUIViewService
+vicen              505   0,0  0,1 426975296  11952   ??  Ss   jue08AM   0:00.21 /System/Library/PrivateFrameworks/CloudDocs.framework/PlugIns/com.apple.CloudDocs.iCloudDriveFileProvider.appex/Contents/MacOS/com.apple.CloudDocs.iCloudDriveFileProvider
+vicen              479   0,0  0,1 427113600  24160   ??  S    jue08AM   0:18.10 /System/Library/CoreServices/WiFiAgent.app/Contents/MacOS/WiFiAgent
+vicen              467   0,0  0,0 426932128   3520   ??  S    jue08AM   0:00.03 /System/Library/PrivateFrameworks/NewDeviceOutreach.framework/ndoagent
+vicen              468   0,0  0,0 426927568   2400   ??  S    jue08AM   0:00.03 /usr/libexec/icloudmailagent
+vicen              466   0,0  0,1 426968160  20080   ??  S    jue08AM   0:23.58 /usr/libexec/triald
+vicen              500   0,0  0,0 426965152   8352   ??  Ss   jue08AM   0:00.63 /System/Library/PrivateFrameworks/iCloudDriveService.framework/XPCServices/ContainerMetadataExtractor.xpc/Contents/MacOS/ContainerMetadataExtractor
+vicen              503   0,0  0,0 426933216   8000   ??  Ss   jue08AM   0:00.07 /System/Library/Frameworks/ExtensionFoundation.framework/Versions/A/XPCServices/extensionkitservice.xpc/Contents/MacOS/extensionkitservice
+vicen              501   0,0  0,1 426965872  13648   ??  S    jue08AM   0:01.35 /System/Library/Frameworks/LocalAuthentication.framework/Support/coreauthd
+_oahd              499   0,0  0,0 426928624   2048   ??  Ss   jue08AM   0:00.04 /usr/libexec/rosetta/oahd
+vicen              491   0,0  0,1 426971104  17712   ??  S    jue08AM   0:00.65 /usr/libexec/milod
+vicen              498   0,0  0,0 34065836   1696   ??  Ss   jue08AM   0:00.74 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/CarbonComponentScannerXPC.xpc/Contents/MacOS/CarbonComponentScannerXPC
+vicen              496   0,0  1,3 413871248 221680   ??  S    jue08AM   0:34.04 /System/Library/CoreServices/Spotlight.app/Contents/MacOS/Spotlight
+vicen              497   0,0  0,0 410971456   6464   ??  Ss   jue08AM   0:00.05 /System/Library/PrivateFrameworks/CSExattrCrypto.framework/Versions/A/XPCServices/CSExattrCryptoService.xpc/Contents/MacOS/CSExattrCryptoService
+vicen              494   0,0  0,0 426965216   8384   ??  S    jue08AM   0:01.00 /System/Library/Frameworks/CryptoTokenKit.framework/ctkd -tw
+vicen              495   0,0  0,2 412101712  25824   ??  S    jue08AM   0:12.82 /Applications/Mos.app/Contents/MacOS/Mos
+_nearbyd           492   0,0  0,1 426977184  15024   ??  Ss   jue08AM   0:19.55 /usr/libexec/nearbyd
+vicen              493   0,0  0,2 412066464  39312   ??  S    jue08AM   0:23.90 /System/Library/PrivateFrameworks/ChronoCore.framework/Support/chronod
+vicen              489   0,0  0,2 426980832  30272   ??  S    jue08AM   0:04.81 /usr/libexec/transparencyd
+vicen              482   0,0  0,1 426964192  10128   ??  S    jue08AM   0:01.01 /System/Library/PrivateFrameworks/MobileTimer.framework/Executables/mobiletimerd
+vicen              486   0,0  0,0 426932128   4976   ??  S    jue08AM   0:00.05 /System/Library/Frameworks/CryptoTokenKit.framework/ctkahp.bundle/Contents/MacOS/ctkahp
+vicen              488   0,0  0,0 410209152   1760   ??  Ss   jue08AM   0:00.02 /System/Library/Frameworks/NetFS.framework/Versions/A/XPCServices/PlugInLibraryService.xpc/Contents/MacOS/PlugInLibraryService
+vicen              490   0,0  0,2 411915184  29008   ??  S    jue08AM   0:02.49 /System/Library/CoreServices/UIKitSystem.app/Contents/MacOS/UIKitSystem system_app_start
+vicen              485   0,0  0,1 426964784   9616   ??  S    jue08AM   0:00.22 /System/Library/Frameworks/AudioToolbox.framework/AudioComponentRegistrar
+vicen              480   0,0  0,1 411096640  25152   ??  Ss   jue08AM   0:22.38 /System/Library/ExtensionKit/Extensions/WallpaperVideoExtension.appex/Contents/MacOS/WallpaperVideoExtension
+vicen              476   0,0  0,0 426929680   5184   ??  S    jue08AM   0:00.07 /System/Library/Frameworks/ManagedSettings.framework/Versions/A/ManagedSettingsAgent
+vicen              478   0,0  0,6 412421424  93776   ??  S    jue08AM   1:44.29 /System/Library/CoreServices/NotificationCenter.app/Contents/MacOS/NotificationCenter
+vicen              477   0,0  0,0 426933216   4400   ??  Ss   jue08AM   0:00.02 /System/Library/Frameworks/ExtensionFoundation.framework/Versions/A/XPCServices/extensionkitservice.xpc/Contents/MacOS/extensionkitservice
+root               475   0,0  0,0 426928496   2416   ??  Ss   jue08AM   0:00.02 /usr/libexec/wallpaperexportd
+vicen              464   0,0  0,2 427095936  37824   ??  S    jue08AM   0:53.23 /System/Library/PrivateFrameworks/CloudKitDaemon.framework/Support/cloudd
+root               473   0,0  0,0 426965328   7008   ??  Ss   jue08AM   0:00.07 /System/Library/PrivateFrameworks/WirelessDiagnostics.framework/Support/awdd
+root               474   0,0  0,1 412026800  12112   ??  Ss   jue08AM   0:01.10 /System/Library/PrivateFrameworks/TVIdleServices.framework/idleassetsd
+vicen              462   0,0  0,1 426966352  16336   ??  S    jue08AM   0:03.86 /usr/libexec/ContinuityCaptureAgent server
+vicen              471   0,0  0,1 426964144  12496   ??  S    jue08AM   0:00.57 /System/Library/PrivateFrameworks/CoreCDP.framework/Versions/A/Resources/cdpd
+vicen              469   0,0  0,2 426985200  35824   ??  S    jue08AM   0:04.66 /System/Library/PrivateFrameworks/DoNotDisturbServer.framework/Support/donotdisturbd
+vicen              472   0,0  0,1 410831840  14000   ??  S    jue08AM   0:00.73 /System/Library/Frameworks/Security.framework/Versions/A/XPCServices/TrustedPeersHelper.xpc/Contents/MacOS/TrustedPeersHelper
+vicen              470   0,0  0,1 426965792  13376   ??  S    jue08AM   0:02.32 /System/Library/Frameworks/ApplicationServices.framework/Frameworks/ATS.framework/Support/fontd
+vicen              465   0,0  0,1 426992944  15456   ??  Ss   jue08AM   0:01.48 /System/Library/Input Methods/PressAndHold.app/Contents/PlugIns/PAH_Extension.appex/Contents/MacOS/PAH_Extension -AppleLanguages ("es-ES")
+vicen              460   0,0  0,1 426966160  15904   ??  S    jue08AM   0:14.79 /System/Library/PrivateFrameworks/CacheDelete.framework/deleted
+vicen              463   0,0  0,1 411448384  13712   ??  S    jue08AM   0:03.84 /System/Library/PrivateFrameworks/ViewBridge.framework/Versions/A/XPCServices/ViewBridgeAuxiliary.xpc/Contents/MacOS/ViewBridgeAuxiliary
+vicen              459   0,0  0,1 426971968  16304   ??  S    jue08AM   0:01.68 /System/Library/PrivateFrameworks/SyncedDefaults.framework/Support/syncdefaultsd
+_driverkit         461   0,0  0,0 426851536    832   ??  Ss   jue08AM   0:00.04 /System/Library/DriverExtensions/IOUserBluetoothSerialDriver.dext/IOUserBluetoothSerialDriver com.apple.IOUserBluetoothSerialDriver 0x100000d45 com.apple.IOUserBluetoothSerialDriver
+vicen              453   0,0  0,3 427008416  43328   ??  S    jue08AM   0:06.09 /System/Library/PrivateFrameworks/HearingCore.framework/heard
+vicen              458   0,0  0,3 427010016  45760   ??  S    jue08AM   0:20.65 /System/Library/Frameworks/Accounts.framework/Versions/A/Support/accountsd
+vicen              457   0,0  0,3 427002864  45520   ??  S    jue08AM   0:17.84 /System/Library/PrivateFrameworks/IDS.framework/identityservicesd.app/Contents/MacOS/identityservicesd
+vicen              454   0,0  0,1 426969664  16416   ??  S    jue08AM   0:00.81 /usr/libexec/intelligentroutingd
+vicen              456   0,0  0,2 426980144  26960   ??  S    jue08AM   0:08.81 /System/Library/PrivateFrameworks/ScreenTimeCore.framework/Versions/A/ScreenTimeAgent
+vicen              455   0,0  0,2 426969696  30144   ??  S    jue08AM   0:03.00 /System/Library/CoreServices/audioaccessoryd
+vicen              452   0,0  0,1 427148528  24224   ??  S    jue08AM   0:01.42 /System/Library/CoreServices/iconservicesagent
+vicen              438   0,0  0,1 427112064  22672   ??  S    jue08AM   0:00.62 /System/Library/CoreServices/CoreLocationAgent.app/Contents/MacOS/CoreLocationAgent
+vicen              439   0,0  0,1 426965776  14064   ??  S    jue08AM   0:00.73 /System/Library/PrivateFrameworks/UserNotificationsCore.framework/Support/usernotificationsd
+_appleevents       432   0,0  0,0 426932480   2352   ??  S    jue08AM   0:01.05 /usr/sbin/distnoted agent
+vicen              448   0,0  0,3 426991728  42528   ??  S    jue08AM   0:30.93 /System/Library/PrivateFrameworks/FileProvider.framework/Support/fileproviderd
+vicen              443   0,0  0,5 427248864  87904   ??  S    jue08AM   0:47.71 /System/Library/PrivateFrameworks/CoreSuggestions.framework/Versions/A/Support/suggestd
+vicen              449   0,0  0,0 426975232   6704   ??  S    jue08AM   0:00.12 /System/Library/PrivateFrameworks/AMPDevices.framework/Versions/A/Support/AMPDeviceDiscoveryAgent --launchd
+vicen              436   0,0  0,1 426966528  19520   ??  S    jue08AM   0:02.23 /System/Library/PrivateFrameworks/CloudDocsDaemon.framework/Versions/A/Support/bird
+vicen              447   0,0  0,1 426967296  17968   ??  S    jue08AM   0:00.76 /System/Library/CoreServices/sharedfilelistd
+vicen              446   0,0  0,2 426983280  34320   ??  S    jue08AM   0:05.70 /System/Library/PrivateFrameworks/TelephonyUtilities.framework/callservicesd
+vicen              442   0,0  0,1 426964992  11072   ??  S    jue08AM   0:00.15 /System/Library/PrivateFrameworks/SocialLayer.framework/sociallayerd.app/Contents/MacOS/sociallayerd
+vicen              445   0,0  0,1 426976848  18000   ??  S    jue08AM   0:26.56 /System/Library/PrivateFrameworks/TCC.framework/Support/tccd
+vicen              444   0,0  0,2 427151728  41104   ??  S    jue08AM   0:22.10 /System/Library/PrivateFrameworks/CalendarDaemon.framework/Support/calaccessd
+vicen              437   0,0  0,1 426972544  21008   ??  S    jue08AM   0:37.33 /usr/libexec/trustd --agent
+vicen              440   0,0  0,0 426932656   4480   ??  S    jue08AM   0:01.38 /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/Versions/A/XPCServices/com.apple.hiservices-xpcservice.xpc/Contents/MacOS/com.apple.hiservices-xpcservice
+root               441   0,0  0,0 426933760   1824   ??  Ss   jue08AM   0:00.03 automountd
+vicen              433   0,0  0,2 427015744  33824   ??  S    jue08AM   0:01.77 /System/Library/PrivateFrameworks/VoiceShortcuts.framework/Versions/A/Support/siriactionsd
+vicen              434   0,0  0,2 412073424  25232   ??  S    jue08AM   0:01.80 /System/Library/CoreServices/WallpaperAgent.app/Contents/MacOS/WallpaperAgent
+vicen              429   0,0  0,1 426970352  10800   ??  S    jue08AM   0:00.60 /usr/libexec/dmd
+root               431   0,0  0,1 426944304  15376   ??  Ss   jue08AM   0:03.11 /usr/sbin/filecoordinationd
+vicen              428   0,0  0,1 426964112  12240   ??  S    jue08AM   0:03.42 /usr/libexec/containermanagerd --runmode=agent --user-container-mode=current --bundle-container-mode=proxy --system-container-mode=none
+vicen              430   0,0  0,2 427511712  35328   ??  S    jue08AM   0:03.07 /System/Library/Frameworks/QuickLookThumbnailing.framework/Support/com.apple.quicklook.ThumbnailsAgent
+vicen              427   0,0  0,3 427097520  42880   ??  Ss   jue08AM   0:01.42 /System/Library/Frameworks/QuickLookUI.framework/Versions/A/XPCServices/QuickLookUIService.xpc/Contents/MacOS/QuickLookUIService
+vicen              426   0,0  0,3 426976640  44896   ??  S    jue08AM   0:01.57 /usr/libexec/secinitd
+vicen              421   0,0  0,0 426961888   7808   ??  S    jue08AM   0:04.60 /System/Library/CoreServices/lockoutagent
+vicen              424   0,0  0,2 426971600  27024   ??  S    jue08AM   0:09.97 /usr/libexec/rapportd
+vicen              419   0,0  0,1 426972592  19120   ??  S    jue08AM   0:19.19 /usr/libexec/nsurlsessiond
+vicen              423   0,0  0,2 426974944  33424   ??  S    jue08AM   0:22.13 /usr/libexec/routined LAUNCHED_BY_LAUNCHD
+vicen              422   0,0  0,1 426967840  22624   ??  S    jue08AM   0:02.17 /usr/sbin/usernoted
+vicen              420   0,0  0,0 426932544   3744   ??  S    jue08AM   0:00.02 /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/CarbonCore.framework/Versions/A/XPCServices/csnameddatad.xpc/Contents/MacOS/csnameddatad
+vicen              417   0,0  0,0 426932592   5040   ??  S    jue08AM   0:00.03 /System/Library/CoreServices/APFSUserAgent
+vicen              416   0,0  0,1 426977680  19232   ??  S    jue08AM   0:00.86 /System/Library/Frameworks/CoreTelephony.framework/Support/CommCenter -L
+vicen              413   0,0  0,3 426993296  45888   ??  S    jue08AM   0:19.27 /usr/libexec/secd
+vicen              412   0,0  1,0 412546368 164896   ??  S    jue08AM   0:47.92 /System/Library/CoreServices/Finder.app/Contents/MacOS/Finder
+vicen              411   0,0  0,2 412178048  41216   ??  S    jue08AM   0:00.91 /System/Library/CoreServices/SystemUIServer.app/Contents/MacOS/SystemUIServer
+vicen              409   0,0  0,2 426978704  25600   ??  S    jue08AM   0:06.28 /usr/libexec/lsd
+vicen              408   0,0  0,3 412287904  50928   ??  S    jue08AM   0:13.64 /System/Library/CoreServices/Dock.app/Contents/MacOS/Dock
+vicen              405   0,0  0,1 426976128  18000   ??  S    jue08AM   0:01.99 /usr/libexec/pkd
+vicen              404   0,0  0,1 426983008  15040   ??  S    jue08AM   0:00.68 /System/Library/PrivateFrameworks/BackgroundTaskManagement.framework/Support/BackgroundTaskManagementAgent.app/Contents/MacOS/BackgroundTaskManagementAgent
+vicen              406   0,0  0,1 426982256  14544   ??  S    jue08AM   0:00.60 /System/Library/CoreServices/talagentd
+vicen              407   0,0  0,2 412067376  34416   ??  S    jue08AM   0:29.99 /System/Library/CoreServices/WindowManager.app/Contents/MacOS/WindowManager
+vicen              403   0,0  0,0 426933040   7168   ??  S    jue08AM   0:00.28 /usr/libexec/pboard
+vicen              402   0,0  0,1 410843744  13904   ??  S    jue08AM   0:00.55 /System/Library/Frameworks/InputMethodKit.framework/Resources/imklaunchagent
+vicen              394   0,0  0,1 426967344  21408   ??  S    jue08AM   0:12.21 /usr/libexec/UserEventAgent (Aqua)
+vicen              398   0,0  0,1 426975648  11552   ??  S    jue08AM   0:00.69 /usr/libexec/neagent
+vicen              399   0,0  0,2 412236256  34352   ??  S    jue08AM   0:01.83 /System/Library/CoreServices/CoreServicesUIAgent.app/Contents/MacOS/CoreServicesUIAgent
+vicen              400   0,0  0,1 412037776  17072   ??  S    jue08AM   0:01.94 /usr/sbin/universalaccessd launchd -s
+root               393   0,0  0,0 426928464   2448   ??  Ss   jue08AM   0:00.05 /System/Library/PrivateFrameworks/CoreKDL.framework/Support/corekdld
+vicen              392   0,0  0,1 426934112   9552   ??  S    jue08AM   0:18.15 /usr/sbin/cfprefsd agent
+vicen              391   0,0  0,0 426932480   6000   ??  S    jue08AM   0:14.66 /usr/sbin/distnoted agent
+root               390   0,0  0,0 426927984   1568   ??  Ss   jue08AM   0:00.05 /usr/libexec/applekeystored
+root               387   0,0  0,0 426933680   4592   ??  Ss   jue08AM   0:00.10 /System/Library/Frameworks/GSS.framework/Helpers/GSSCred
+root               385   0,0  0,0 426965456   8160   ??  Ss   jue08AM   0:00.53 /usr/libexec/countryd
+root               384   0,0  0,1 426977456  15616   ??  Ss   jue08AM   0:08.94 /usr/libexec/gamepolicyd
+_accessoryupdater   383   0,0  0,0 426932768   3520   ??  Ss   jue08AM   0:00.10 /System/Library/PrivateFrameworks/MobileAccessoryUpdater.framework/XPCServices/ThunderboltAccessoryUpdaterService.xpc/Contents/MacOS/ThunderboltAccessoryUpdaterService
+_accessoryupdater   376   0,0  0,0 410680176   4176   ??  Ss   jue08AM   0:00.05 /System/Library/PrivateFrameworks/MobileAccessoryUpdater.framework/XPCServices/UARPUpdaterServiceDFU.xpc/Contents/MacOS/UARPUpdaterServiceDFU
+_accessoryupdater   377   0,0  0,0 410761504   2640   ??  Ss   jue08AM   0:00.05 /System/Library/PrivateFrameworks/MobileAccessoryUpdater.framework/XPCServices/UARPUpdaterServiceAFU.xpc/Contents/MacOS/UARPUpdaterServiceAFU
+_accessoryupdater   375   0,0  0,0 426964592   5824   ??  Ss   jue08AM   0:00.10 /System/Library/PrivateFrameworks/MobileAccessoryUpdater.framework/XPCServices/UARPUpdaterServiceLegacyAudio.xpc/Contents/MacOS/UARPUpdaterServiceLegacyAudio
+_accessoryupdater   374   0,0  0,0 426932176   2880   ??  Ss   jue08AM   0:00.07 /System/Library/PrivateFrameworks/MobileAccessoryUpdater.framework/XPCServices/UARPUpdaterServiceHID.xpc/Contents/MacOS/UARPUpdaterServiceHID
+_accessoryupdater   373   0,0  0,0 426966288   5760   ??  Ss   jue08AM   0:00.09 /System/Library/PrivateFrameworks/MobileAccessoryUpdater.framework/XPCServices/UARPUpdaterServiceDisplay.xpc/Contents/MacOS/UARPUpdaterServiceDisplay
+_accessoryupdater   372   0,0  0,0 411103344   8160   ??  Ss   jue08AM   0:00.78 /System/Library/PrivateFrameworks/MobileAccessoryUpdater.framework/XPCServices/UARPUpdaterServiceUSBPD.xpc/Contents/MacOS/UARPUpdaterServiceUSBPD
+root               381   0,0  0,0 426965552   6416   ??  Ss   jue08AM   0:06.21 /Library/Apple/System/Library/CoreServices/XProtect.app/Contents/XPCServices/XProtectPluginService.xpc/Contents/MacOS/XProtectPluginService
+root               371   0,0  0,0 411312080   1952   ??  Ss   jue08AM   0:00.07 /Library/PrivilegedHelperTools/com.docker.vmnetd
+_accessoryupdater   368   0,0  0,0 426932480   2352   ??  S    jue08AM   0:01.09 /usr/sbin/distnoted agent
+root               367   0,0  0,0 426966720   5600   ??  S    jue08AM   0:00.68 /usr/sbin/systemstats --logger-helper /private/var/db/systemstats
+root               189   0,0  0,0 426927904   3280   ??  Ss   jue08AM   0:00.09 /usr/libexec/usbd
+root               179   0,0  0,0 426932256   7344   ??  Ss   jue08AM   0:00.82 /System/Library/CoreServices/TimeMachine/backupd-helper -launchd
+root               366   0,0  0,1 426966144  12224   ??  Ss   jue08AM   0:02.28 /usr/libexec/wifianalyticsd
+root               173   0,0  0,0 426928480   2464   ??  Ss   jue08AM   0:00.08 /System/Library/CoreServices/liquiddetectiond.app/liquiddetectiond
+root               365   0,0  0,0 426932208   3344   ??  Ss   jue08AM   0:05.05 /usr/libexec/sysmond
+root               363   0,0  0,0 410292224   4112   ??  Ss   jue08AM   0:00.04 /System/Library/PrivateFrameworks/WiFiPolicy.framework/XPCServices/WiFiCloudAssetsXPCService.xpc/Contents/MacOS/WiFiCloudAssetsXPCService
+root               361   0,0  0,1 426970704  15536   ??  Ss   jue08AM   0:09.16 /usr/libexec/wifip2pd
+root               360   0,0  0,0 426969504   7424   ??  Ss   jue08AM   0:00.25 /usr/libexec/symptomsd-diag
+_www               359   0,0  0,0 410745552   1152   ??  S    jue08AM   0:00.01 /usr/sbin/httpd -D FOREGROUND
+root               128   0,0  0,0 410736400   2112   ??  Ss   jue08AM   0:01.42 /usr/sbin/httpd -D FOREGROUND
+_nsurlsessiond     346   0,0  0,0 426932480   2336   ??  S    jue08AM   0:01.08 /usr/sbin/distnoted agent
+_cmiodalassistants   342   0,0  0,0 426964112   3968   ??  S    jue08AM   0:00.08 /usr/libexec/containermanagerd --runmode=agent --user-container-mode=current --bundle-container-mode=proxy --system-container-mode=none
+root               312   0,0  0,1 426966528  13952   ??  Ss   jue08AM   0:00.84 /System/Library/PrivateFrameworks/BackgroundTaskManagement.framework/Resources/backgroundtaskmanagementd -daemon
+_spotlight         341   0,0  0,0 426932480   2336   ??  S    jue08AM   0:01.06 /usr/sbin/distnoted agent
+_cmiodalassistants   340   0,0  0,1 426967280   8848   ??  S    jue08AM   0:00.41 /usr/libexec/trustd --agent
+_cmiodalassistants   335   0,0  0,0 426932528   2864   ??  S    jue08AM   0:00.06 /usr/sbin/cfprefsd agent
+root               334   0,0  0,1 426989888  11856   ??  Ss   jue08AM   0:00.89 /usr/sbin/systemsoundserverd
+_cmiodalassistants   332   0,0  0,0 426965840   5472   ??  S    jue08AM   0:00.06 /usr/libexec/secinitd
+_ctkd              329   0,0  0,0 426964880   5696   ??  Ss   jue08AM   0:00.09 /System/Library/Frameworks/CryptoTokenKit.framework/ctkd -st
+_cmiodalassistants   325   0,0  0,1 426973696  19744   ??  S    jue08AM   0:01.48 /System/Library/PrivateFrameworks/GeoServices.framework/Versions/A/XPCServices/com.apple.geod.xpc/Contents/MacOS/com.apple.geod
+root               327   0,0  0,0 426932416   5664   ??  Ss   jue08AM   0:00.73 /usr/sbin/BTLEServer
+root               323   0,0  0,7 418386800 118512   ??  Ss   jue08AM   2:03.19 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mds_stores
+root               320   0,0  0,0 426932096   5184   ??  Ss   jue08AM   0:00.15 /System/Library/Frameworks/CryptoTokenKit.framework/ctkahp.bundle/Contents/MacOS/ctkahp -d
+_driverkit         319   0,0  0,0 426851664   1024   ??  Ss   jue08AM   0:00.63 /System/Library/DriverExtensions/com.apple.AppleUserHIDDrivers.dext/com.apple.AppleUserHIDDrivers com.apple.driverkit.AppleUserHIDDrivers 0x100000c52 com.apple.AppleUserHIDDrivers
+_driverkit         316   0,0  0,0 426851456    816   ??  Ss   jue08AM   0:00.07 /System/Library/DriverExtensions/com.apple.DriverKit-IOUserDockChannelSerial.dext/com.apple.DriverKit-IOUserDockChannelSerial com.apple.IOUserDockChannelSerial 0x100000c4f com.apple.DriverKit-IOUserDockChannelSerial
+root               314   0,0  0,1 426965568  14192   ??  Ss   jue08AM   0:00.66 /System/Library/Frameworks/LocalAuthentication.framework/Support/coreauthd
+root               308   0,0  0,0 426966448   4816   ??  Ss   jue08AM   0:00.25 /System/Library/PrivateFrameworks/MobileSoftwareUpdate.framework/Versions/A/XPCServices/com.apple.MobileSoftwareUpdate.CleanupPreparePathService.xpc/Contents/MacOS/com.apple.MobileSoftwareUpdate.CleanupPreparePathService
+_softwareupdate    306   0,0  0,0 426932480   2336   ??  S    jue08AM   0:01.12 /usr/sbin/distnoted agent
+_coreaudiod        303   0,0  0,0 426927856   2640   ??  S    jue08AM   0:00.04 /usr/libexec/containermanagerd --runmode=agent --user-container-mode=current --bundle-container-mode=proxy --system-container-mode=none
+_coreaudiod        305   0,0  0,0 426964784   4592   ??  Ss   jue08AM   0:00.04 /System/Library/PrivateFrameworks/AppleDeviceQuerySupport.framework/Versions/A/XPCServices/AppleDeviceQueryService.xpc/Contents/MacOS/AppleDeviceQueryService
+root               304   0,0  0,1 426965728  10256   ??  Ss   jue08AM   0:07.47 /usr/libexec/audioanalyticsd
+root               300   0,0  0,1 426971712  11184   ??  Ss   jue08AM   0:01.56 /usr/libexec/storagekitd
+root               302   0,0  0,0 426928464   3568   ??  Ss   jue08AM   0:00.11 /System/Library/PrivateFrameworks/AccountPolicy.framework/XPCServices/com.apple.AccountPolicyHelper.xpc/Contents/MacOS/com.apple.AccountPolicyHelper
+_softwareupdate    298   0,0  0,2 431407376  31808   ??  Ss   jue08AM   0:47.37 /System/Library/CoreServices/Software Update.app/Contents/Resources/softwareupdated
+root               297   0,0  0,2 427000208  30192   ??  Ss   jue08AM   1:27.40 /usr/libexec/searchpartyd
+root               296   0,0  0,0 426966784   5616   ??  Ss   jue08AM   0:00.27 /System/Library/CoreServices/Software Update.app/Contents/Resources/suhelperd
+root               295   0,0  0,0 410808960   5616   ??  Ss   jue08AM   0:18.76 /usr/libexec/audioclocksyncd
+root               294   0,0  0,0 426927904   3328   ??  Ss   jue08AM   0:00.04 /usr/libexec/bootinstalld
+root               293   0,0  0,1 426968976  11024   ??  Ss   jue08AM   0:00.46 /usr/libexec/mobileactivationd
+_coreaudiod        292   0,0  0,0 410319680   2512   ??  Ss   jue08AM   0:00.03 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
+root               290   0,0  0,1 426966176  11488   ??  Ss   jue08AM   0:04.42 /usr/sbin/WirelessRadioManagerd
+_cmiodalassistants   279   0,0  0,1 426969072   8816   ??  Ss   jue08AM   0:02.09 /usr/sbin/appleh13camerad
+root               291   0,0  0,1 426964608   8656   ??  Ss   jue08AM   0:19.37 /usr/libexec/findmybeaconingd
+_cmiodalassistants   288   0,0  0,0 426965376   7600   ??  Ss   jue08AM   0:00.27 /System/Library/Frameworks/CoreMediaIO.framework/Versions/A/Resources/UVCAssistant.systemextension/Contents/MacOS/UVCAssistant
+root               289   0,0  0,0 426966432   7424   ??  Ss   jue08AM   0:03.39 /System/Library/CoreServices/TimeMachine/backupd
+root               286   0,0  0,0 426932576   5840   ??  Ss   jue08AM   0:00.09 /System/Library/Frameworks/AudioToolbox.framework/AudioComponentRegistrar -daemon
+_cmiodalassistants   284   0,0  0,0 426882592   7712   ??  Ss   jue08AM   0:00.10 /usr/libexec/cameracaptured
+_appleevents       283   0,0  0,1 426965376   9456   ??  Ss   jue08AM   0:00.30 /System/Library/CoreServices/appleeventsd --server
+_coreaudiod        282   0,0  0,0 410201888   2080   ??  Ss   jue08AM   0:00.01 /System/Library/Frameworks/CoreAudio.framework/Versions/A/XPCServices/com.apple.audio.DriverHelper.xpc/Contents/MacOS/com.apple.audio.DriverHelper
+_coreaudiod        281   0,0  0,0 410399568   7744   ??  Ss   jue08AM   0:02.09 Core Audio Driver (MSTeamsAudioDevice.driver)
+root               277   0,0  0,0 426965216   5872   ??  Ss   jue08AM   0:00.67 /usr/libexec/securityd_system
+_locationd         267   0,0  0,0 426964112   3984   ??  S    jue08AM   0:00.07 /usr/libexec/containermanagerd --runmode=agent --user-container-mode=current --bundle-container-mode=proxy --system-container-mode=none
+root               266   0,0  0,0 411333008   5600   ??  Ss   jue08AM   0:00.06 /System/Library/PrivateFrameworks/PowerLog.framework/Versions/A/XPCServices/PerfPowerTelemetryClientRegistrationService.xpc/Contents/MacOS/PerfPowerTelemetryClientRegistrationService
+_cmiodalassistants   258   0,0  0,0 426932480   2336   ??  S    jue08AM   0:01.08 /usr/sbin/distnoted agent
+root               259   0,0  0,0 426927872   2512   ??  Ss   jue08AM   0:00.06 /usr/libexec/colorsyncd
+root               251   0,0  0,0 426928432   2432   ??  Ss   jue08AM   0:00.02 /System/Library/Frameworks/ColorSync.framework/Versions/A/XPCServices/com.apple.ColorSyncXPCAgent.xpc/Contents/MacOS/com.apple.ColorSyncXPCAgent
+root               243   0,0  0,0 410215296   1760   ??  Ss   jue08AM   0:00.01 /System/Library/Frameworks/NetFS.framework/Versions/A/XPCServices/PlugInLibraryService.xpc/Contents/MacOS/PlugInLibraryService
+root               236   0,0  0,0 426932512   6608   ??  Ss   jue08AM   0:00.45 /System/Library/Frameworks/Security.framework/Versions/A/XPCServices/com.apple.CodeSigningHelper.xpc/Contents/MacOS/com.apple.CodeSigningHelper
+_locationd         231   0,0  0,0 426932528   2976   ??  S    jue08AM   0:00.06 /usr/sbin/cfprefsd agent
+_locationd         216   0,0  0,0 426965840   5472   ??  S    jue08AM   0:00.06 /usr/libexec/secinitd
+_locationd         213   0,0  0,1 426973696  20032   ??  S    jue08AM   0:01.71 /System/Library/PrivateFrameworks/GeoServices.framework/Versions/A/XPCServices/com.apple.geod.xpc/Contents/MacOS/com.apple.geod
+root               215   0,0  0,0 426966416   5184   ??  Ss   jue08AM   0:00.08 /System/Library/Frameworks/SystemExtensions.framework/Versions/A/Helpers/sysextd
+_locationd         214   0,0  0,0 426932480   2352   ??  S    jue08AM   0:01.10 /usr/sbin/distnoted agent
+root               212   0,0  0,0 426932064   3344   ??  Ss   jue08AM   0:00.04 /usr/libexec/colorsync.displayservices
+_coreaudiod        206   0,0  0,0 426932480   2336   ??  S    jue08AM   0:01.11 /usr/sbin/distnoted agent
+root               209   0,0  0,0 426932160   3824   ??  Ss   jue08AM   0:00.02 /usr/libexec/ApplicationFirewall/socketfilterfw
+root               208   0,0  0,0 426965456   4160   ??  Ss   jue08AM   0:01.19 /usr/sbin/mDNSResponderHelper
+root               205   0,0  0,3 426988112  55088   ??  Ss   jue08AM   0:39.42 /usr/libexec/mobileassetd
+root               184   0,0  0,0 426928448   2080   ??  S    jue08AM   0:00.03 /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/CarbonCore.framework/Versions/A/XPCServices/csnameddatad.xpc/Contents/MacOS/csnameddatad
+_windowserver      199   0,0  0,0 426932480   2336   ??  S    jue08AM   0:01.13 /usr/sbin/distnoted agent
+root               190   0,0  0,0 426932480   2528   ??  S    jue08AM   0:01.20 /usr/sbin/distnoted agent
+root               202   0,0  0,1 426966336  10000   ??  Ss   jue08AM   0:02.26 /System/Library/Frameworks/Security.framework/Versions/A/XPCServices/authd.xpc/Contents/MacOS/authd
+_networkd          200   0,0  0,1 426981360  18688   ??  Ss   jue08AM   0:18.81 /usr/libexec/symptomsd
+root               201   0,0  0,0 426933120   3728   ??  Ss   jue08AM   0:00.06 /usr/libexec/trustdFileHelper
+root               198   0,0  0,1 426968320  14512   ??  Ss   jue08AM   0:00.68 /usr/libexec/findmydeviced
+root               197   0,0  0,0 410641712   1632   ??  Ss   jue08AM   0:00.02 /usr/libexec/cryptexd
+root               192   0,0  0,1 426965856   8480   ??  Ss   jue08AM   0:00.20 /usr/libexec/secinitd
+_coreaudiod        174   0,0  0,3 426995312  45664   ??  Ss   jue08AM   9:29.66 /usr/sbin/coreaudiod
+root               191   0,0  0,1 426966240  11936   ??  Ss   jue08AM   0:00.87 /usr/libexec/biometrickitd --launchd
+root               185   0,0  0,1 426964928   9568   ??  Ss   jue08AM   0:00.72 /usr/libexec/eligibilityd
+_hidd              186   0,0  0,0 426927872   3840   ??  Ss   jue08AM   0:00.98 /usr/libexec/hidd
+_biome             181   0,0  0,1 426965440  11376   ??  Ss   jue08AM   0:03.40 /System/Library/PrivateFrameworks/BiomeStreams.framework/Support/biomed
+_nsurlsessiond     176   0,0  0,1 426972016  15504   ??  Ss   jue08AM   0:03.54 /usr/libexec/nsurlsessiond --privileged
+root               178   0,0  0,0 426928512   4768   ??  Ss   jue08AM   0:00.07 /usr/libexec/powerexperienced
+root               183   0,0  0,0 426965392   7424   ??  Ss   jue08AM   0:03.49 /System/Library/PrivateFrameworks/SystemStatusServer.framework/Support/systemstatusd
+root               175   0,0  0,0 426932096   3776   ??  Ss   jue08AM   1:04.28 /usr/libexec/apfsd
+root               180   0,0  0,1 426965120  13264   ??  Ss   jue08AM   0:00.51 /usr/libexec/PowerUIAgent
+root               177   0,0  0,1 426965056   8832   ??  Ss   jue08AM   0:01.72 /usr/libexec/nehelper
+_locationd         134   0,0  0,2 427000064  31520   ??  Ss   jue08AM   2:17.09 /usr/libexec/locationd
+_softwareupdate    108   0,0  0,0 426967760   6272   ??  Ss   jue08AM   0:00.16 /System/Library/PrivateFrameworks/MobileSoftwareUpdate.framework/Support/softwareupdated
+_iconservices      115   0,0  0,0 426965264   5776   ??  Ss   jue08AM   0:00.12 /System/Library/CoreServices/iconservicesd
+root               171   0,0  0,2 426969536  31744   ??  Ss   jue08AM   3:35.30 /usr/libexec/airportd
+_accessoryupdater    97   0,0  0,1 426967184  10320   ??  Ss   jue08AM   0:00.61 /System/Library/PrivateFrameworks/MobileAccessoryUpdater.framework/Support/accessoryupdaterd 120
+root               169   0,0  0,1 426977312  23088   ??  Ss   jue08AM   0:06.45 /usr/libexec/lsd runAsRoot
+root               167   0,0  0,1 426973824  17808   ??  Ss   jue08AM   0:15.06 /System/Library/PrivateFrameworks/CoreDuetContext.framework/Resources/contextstored
+root               168   0,0  0,0 426959152   7232   ??  Ss   jue08AM   0:00.61 /System/Library/CoreServices/coreservicesd
+root               165   0,0  0,0 410970800   6800   ??  Ss   jue08AM   0:00.17 /usr/libexec/containermanagerd_system --runmode=privileged --user-container-mode=current --bundle-container-mode=global --bundle-container-owner=_appinstalld --system-container-mode=none
+root               166   0,0  0,0 426932240   2032   ??  Ss   jue08AM   0:00.27 /usr/libexec/logd_helper
+root               164   0,0  0,1 426977536  20320   ??  Ss   jue08AM   1:50.73 /usr/libexec/runningboardd
+root               160   0,0  0,0 426932240   1760   ??  Ss   jue08AM   0:00.05 aslmanager
+_distnote          141   0,0  0,0 426932480   4000   ??  Ss   jue08AM   0:08.58 /usr/sbin/distnoted daemon
+_usbmuxd           131   0,0  0,0 426973808   5104   ??  Ss   jue08AM   0:00.26 /System/Library/PrivateFrameworks/MobileDevice.framework/Versions/A/Resources/usbmuxd -launchd
+_timed             130   0,0  0,0 426965216   7040   ??  Ss   jue08AM   0:02.02 /usr/libexec/timed
+root               161   0,0  0,0 426932800   7664   ??  Ss   jue08AM   0:19.09 /usr/sbin/cfprefsd daemon
+vicen              159   0,0  1,2 412375136 195312   ??  Ss   jue08AM   0:33.56 /System/Library/CoreServices/loginwindow.app/Contents/MacOS/loginwindow console
+root               101   0,0  0,0 426929056   4032   ??  Ss   jue08AM   0:00.24 /usr/libexec/IOMFB_bics_daemon
+root               138   0,0  0,1 426972096  22016   ??  Ss   jue08AM   0:35.09 /usr/libexec/dasd
+root               129   0,0  0,1 426966672  13680   ??  Ss   jue08AM   0:09.20 /System/Library/CoreServices/launchservicesd
+root               148   0,0  0,0 426932448   6032   ??  Ss   jue08AM   0:00.20 /usr/libexec/usermanagerd -t 15
+root               146   0,0  0,0 426961792   7056   ??  Ss   jue08AM   0:00.16 /System/Library/PrivateFrameworks/GenerationalStorage.framework/Versions/A/Support/revisiond
+root                88   0,0  0,0 426932640   4784   ??  Ss   jue08AM   0:00.08 /usr/libexec/smd
+root                95   0,0  0,1 426977328  13056   ??  Ss   jue08AM   0:03.19 /usr/sbin/systemstats --daemon
+root                92   0,0  0,1 426970752  17584   ??  Ss   jue08AM   0:03.89 /System/Library/PrivateFrameworks/MediaRemote.framework/Support/mediaremoted
+root               121   0,0  0,0 426933184   2816   ??  Ss   jue08AM   0:02.85 /usr/sbin/syslogd
+root               120   0,0  0,2 426978048  26736   ??  Ss   jue08AM   1:23.01 /usr/libexec/coreduetd
+root               144   0,0  0,0 426928400    992   ??  Ss   jue08AM   0:00.14 /usr/libexec/dirhelper
+root                99   0,0  0,0 426927936   1520   ??  Ss   jue08AM   0:00.03 endpointsecurityd
+root               155   0,0  0,2 426964688  26272   ??  Ss   jue08AM   0:00.83 /System/Library/Frameworks/CoreMediaIO.framework/Versions/A/Resources/com.apple.cmio.registerassistantservice
+root               135   0,0  0,0 426965792   8240   ??  Ss   jue08AM   0:00.86 /usr/libexec/nesessionmanager
+root               107   0,0  0,0 426932224   4128   ??  Ss   jue08AM   0:00.11 /usr/libexec/keybagd -t 15
+root               100   0,0  0,1 426967264  12368   ??  Ss   jue08AM   0:24.33 /System/Library/CoreServices/powerd.bundle/powerd
+root               142   0,0  0,0 426964784   4096   ??  Ss   jue08AM   0:00.21 /System/Library/PrivateFrameworks/AppleCredentialManager.framework/AppleCredentialManagerDaemon
+root                91   0,0  0,0 426938080   7776   ??  Ss   jue08AM   1:04.47 /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/FSEvents.framework/Versions/A/Support/fseventsd
+root               150   0,0  0,2 426994464  29328   ??  Ss   jue08AM   1:35.27 /usr/sbin/bluetoothd
+root                89   0,0  0,1 426967200  19712   ??  Ss   jue08AM   0:08.31 /usr/libexec/UserEventAgent (System)
+root               154   0,0  0,1 426966032  13360   ??  Ss   jue08AM   0:02.08 /usr/libexec/AirPlayXPCHelper
+root               116   0,0  0,0 426968752   7184   ??  Ss   jue08AM   0:00.87 /usr/libexec/kernelmanagerd
+root               152   0,0  0,2 426971376  33456   ??  Ss   jue08AM   0:02.96 /usr/libexec/sandboxd
+root               117   0,0  0,0 426964832   6352   ??  Ss   jue08AM   0:01.69 /usr/libexec/diskarbitrationd
+root               147   0,0  0,0 426928448   1360   ??  Ss   jue08AM   0:00.03 /usr/sbin/KernelEventAgent
+root               145   0,0  0,0 426932048   6016   ??  Ss   jue08AM   0:00.15 /System/Library/CoreServices/logind
+root               137   0,0  0,0 426928432   2320   ??  Ss   jue08AM   0:00.02 autofsd
+root               139   0,0  0,0 426965856   5216   ??  Ss   jue08AM   0:00.11 /System/Library/PrivateFrameworks/Heimdal.framework/Helpers/kdc
+root               132   0,0  0,1 426968720  11888   ??  Ss   jue08AM   0:04.09 /usr/sbin/securityd -i
+root                87   0,0  0,3 427111808  51968   ??  Ss   jue08AM   1:31.79 /usr/libexec/logd
+root               127   0,0  0,1 427047696  20816   ??  Ss   jue08AM   0:13.76 /System/Library/PrivateFrameworks/ApplePushService.framework/apsd
+root               151   0,0  0,0 426928096   4128   ??  Ss   jue08AM   0:17.11 /usr/sbin/notifyd
+root               125   0,0  0,1 426972320  18768   ??  Ss   jue08AM   1:18.68 /usr/libexec/opendirectoryd
+root               124   0,0  0,0 426965264   4768   ??  Ss   jue08AM   0:05.31 /usr/libexec/thermalmonitord
+root               114   0,0  0,3 427018208  52096   ??  Ss   jue08AM   1:32.35 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Support/mds
+root               110   0,0  0,0 426928528   3120   ??  Ss   jue08AM   0:00.98 /usr/libexec/watchdogd
+root               105   0,0  0,0 426965088   4320   ??  Ss   jue08AM   0:00.06 /usr/libexec/remoted
+root               103   0,0  0,1 426966144  10880   ??  Ss   jue08AM   0:01.01 /usr/libexec/amfid
+root                98   0,0  0,1 426969904  14448   ??  Ss   jue08AM   0:29.48 /usr/libexec/configd
+root             20663   0,0  0,0 410723776   2288 s000  R+    9:20AM   0:00.01 ps aux
+root                 1   0,0  0,1 426851952  21168   ??  Ss   jue08AM   3:11.93 /sbin/launchd
+vicen            20662   0,0  0,1 426952176  20704   ??  S     9:20AM   0:00.13 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+vicen            20651   0,0  0,0 410770176   4304 s000  S     9:20AM   0:00.02 -zsh
+root             20650   0,0  0,0 410752544   6752 s000  Ss    9:20AM   0:00.01 login -pf vicen
+vicen            20648   0,0  0,1 411098480  24464   ??  S     9:20AM   0:00.09 /System/Library/PrivateFrameworks/UniversalAccess.framework/Versions/A/Resources/AXVisualSupportAgent.app/Contents/MacOS/AXVisualSupportAgent launchd -s
+vicen            20645   0,0  0,1 426952176  22704   ??  S     9:19AM   0:00.22 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+vicen            20640   0,0  0,1 426966448   9936   ??  Ss    9:17AM   0:00.02 /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/SpeechSynthesis.framework/Versions/A/XPCServices/SpeechSynthesisServerXPC.xpc/Contents/MacOS/SpeechSynthesisServerXPC
+vicen            20636   0,0  0,4 498989680  68176   ??  Ss    9:16AM   0:00.10 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent
+vicen            20635   0,0  0,5 499053216  83104   ??  Ss    9:15AM   0:00.31 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent
+vicen            20631   0,0  0,1 426972096  10736   ??  Ss    9:15AM   0:00.02 /System/Library/Frameworks/SafariServices.framework/Versions/A/XPCServices/com.apple.SafariServices.xpc/Contents/MacOS/com.apple.SafariServices
+vicen            20628   0,0  0,1 410794304   8480   ??  Ss    9:15AM   0:00.02 /System/Library/PrivateFrameworks/CSExattrCrypto.framework/Versions/A/XPCServices/CSExattrCryptoService.xpc/Contents/MacOS/CSExattrCryptoService
+vicen            20627   0,0  0,1 426894688  12864   ??  Ss    9:15AM   0:00.05 /System/Library/Frameworks/VideoToolbox.framework/Versions/A/XPCServices/VTDecoderXPCService.xpc/Contents/MacOS/VTDecoderXPCService
+vicen            20626   0,0  0,2 426992016  40960   ??  Ss    9:15AM   0:00.11 /System/Applications/Books.app/Contents/PlugIns/BooksThumbnail.appex/Contents/MacOS/BooksThumbnail
