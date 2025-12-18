@@ -3,3 +3,4 @@
 3 * cp ../procesos.txt ./dos/
 4 * grep root procesos.txt
 5 * $ awk '{print $2 "---" $9}' procesos.txt
+6 * $ grep -n "vicen" procesos.txt
