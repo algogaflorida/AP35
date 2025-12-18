@@ -1,4 +1,5 @@
 1 * mkdir uno dos tres
 2 * $ echo "Alejandro Gómez García">>un.txt
 3 * cp ../procesos.txt ./dos/
-4 * 
+4 * grep root procesos.txt
+5 * $ awk '{print $2 "---" $9}' procesos.txt
