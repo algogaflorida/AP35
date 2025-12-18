@@ -1,1 +1,2 @@
 1 * mkdir uno dos tres
+2 * $ echo "Alejandro Gómez García">>un.txt
