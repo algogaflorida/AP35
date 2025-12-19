@@ -4,3 +4,4 @@
 4 * $ grep "^CHAPTER" MobyDick.txt > capitulos.txt
 5 * $ grep -c "^Moby" MobyDick.txt
 6 * $ grep -c "Dick$" MobyDick.txt
+7 * $ grep -A 2 "^CHAPTER" MobyDick.txt > resum.txt
