@@ -5,3 +5,4 @@
 5 * $ grep -c "^Moby" MobyDick.txt
 6 * $ grep -c "Dick$" MobyDick.txt
 7 * $ grep -A 2 "^CHAPTER" MobyDick.txt > resum.txt
+8 * $ sed "s/whale/cachalote/gi" MobyDick.txt >> cachalote.txt
