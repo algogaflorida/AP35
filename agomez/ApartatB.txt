@@ -2,3 +2,4 @@
 2 * $ grep -wc "Moby" MobyDick.txt
 3 * $ grep -w -c if MobyDick.txt
 4 * $ grep "^CHAPTER" MobyDick.txt > capitulos.txt
+5 * $ grep -c "^Moby" MobyDick.txt
