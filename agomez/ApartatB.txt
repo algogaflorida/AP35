@@ -6,3 +6,4 @@
 6 * $ grep -c "Dick$" MobyDick.txt
 7 * $ grep -A 2 "^CHAPTER" MobyDick.txt > resum.txt
 8 * $ sed "s/whale/cachalote/gi" MobyDick.txt >> cachalote.txt
+9 * $ awk '{print $1 " : " $4}' procesos.txt >> procesos2.txt
