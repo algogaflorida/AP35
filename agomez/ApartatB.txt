@@ -1,1 +1,2 @@
 1 * $ grep -c "Moby" MobyDick.txt
+2 * $ grep -wc "Moby" MobyDick.txt
